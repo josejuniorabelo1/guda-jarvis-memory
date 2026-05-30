@@ -11,9 +11,12 @@
 * **Densidade da Palavra-chave Primária:** Média de 1,5% do total do texto. Presença obrigatória no H1, no primeiro H2 (pós-tabela), diluído ao longo do conteúdo, em um H2 no meio do artigo, no H2 final e em pelo menos um H3.
 * **Densidade da Palavra-chave Secundária:** Frequência moderada (dar "moral" a ela, sem exageros).
 * **Links NoFollow:** Todos os botões em HTML e links de saída das tabelas comparativas devem conter `rel="nofollow"`.
-* **Links Internos:** Inserir no mínimo 2 links internos direcionando para receitas, tutoriais ou guias complementares do próprio blog.
+* **Links Internos:** No máximo 2 links internos por artigo, direcionando para receitas, tutoriais ou guias complementares do próprio blog. **IMPORTANTE:** Em artigos em rascunho, NÃO inserir links internos — adicionar somente DEPOIS de publicar (evitar 404).
+* **Links Externos:** No máximo 2 links externos por artigo.
 * **Regra do Selo Único:** O termo "Melhor Custo-Benefício" só pode aparecer em UM único produto por artigo. Proibido repetir.
 * **Simetria nos Bullet Points:** Prós e Contras devem ter rigorosamente a mesma quantidade de linhas (Ex: 3 prós e 3 contras).
+* **Regra de Cauda Longa:** NUNCA repetir a keyword primária exata em múltiplos artigos do mesmo blog. Se já existe "xxx", criar variações: "xxx é boa", "xxx com yyy", "xxx para zzz", "melhor xxx para [contexto]".
+* **Título:** Palavra-chave primária no começo do título (não necessariamente a 1ª palavra, mas nas primeiras posições). Desenvolver o tema no contexto do título (ex: se fala de "copa", desenvolver no ambiente de copa).
 
 ## 3. PADRÃO E FORMATO DAS IMAGENS
 * **Imagem de Destaque:** Forte relação com a palavra-chave. Nome: `melhores-xxxx-em-2026.webp`. Alt Text = título do artigo.
@@ -90,4 +93,13 @@
   - Sem tabela comparativa
   - Sem blocos de produtos individuais
   - Foco em resolver dúvida/dor com profundidade
-  - Manter: SEO, densidade de keywords, links internos, FAQ, imagens WebP
+  - Manter: H2, H3, FAQ, SEO, densidade de keywords, links internos (máx 2), links externos (máx 2), imagens WebP
+
+## 6. AUTOR
+* Publicar sempre como: **José Júnio**
+
+## 7. GERAÇÃO DE IMAGENS
+* API: Stability AI (chave no .env-blogs: STABILITY_AI_API_KEY)
+* Gerar imagem de destaque + mínimo 2 internas
+* Formato: WebP
+* Nomenclatura: `keyword-principal-2026.webp`

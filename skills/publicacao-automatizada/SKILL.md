@@ -7,6 +7,7 @@ Cria artigos de blog otimizados para SEO e afiliados, agenda publicação autom�
 - Quando receber um CSV/lista de palavras-chave validadas (100+ views)
 - Quando for hora de agendar novos artigos
 - Quando precisar enviar lista de produtos para links de afiliado
+- Palavras-gatilho: "cria artigo", "artigo para", "escreve artigo", "gera artigo", "novo artigo"
 
 ## Blogs ativos
 - guiaculinaria.com.br (review produtos cozinha — Amazon + ML)
@@ -14,6 +15,9 @@ Cria artigos de blog otimizados para SEO e afiliados, agenda publicação autom�
 - portaldavitamina.com.br (vitaminas — afiliado)
 - cozinhadecorada.com.br (cozinha geral — afiliado)
 - iaconcurso.com (IA + concurso — afiliado/infoproduto)
+
+## Autor
+- Publicar sempre como: **José Júnio**
 
 ## Passo a passo
 
@@ -25,17 +29,38 @@ Cria artigos de blog otimizados para SEO e afiliados, agenda publicação autom�
 ### 2. Criar artigos
 - Seguir template: `templates/artigo-review.md`
 - Estrutura obrigatória:
-  - H1 com keyword primária (até 64 chars)
+  - H1 com keyword primária no começo (não necessariamente 1ª palavra, mas nas primeiras posições) + gatilho forte
   - Meta description (140-160 chars) com CTA
   - Slug otimizado (keyword com hífens)
-  - Tabela comparativa HTML (links nofollow)
-  - Blocos de produtos (prós/contras simétricos)
+  - Tabela comparativa HTML (links nofollow) — apenas reviews
+  - Blocos de produtos (prós/contras simétricos) — apenas reviews
   - Selo "Melhor Custo-Benefício" em apenas 1 produto
-  - Mínimo 2 links internos
-  - FAQ com schema (mínimo 5 perguntas)
+  - H2, H3 e FAQ obrigatórios em TODOS os artigos
+  - Links internos: no máximo 2 por artigo
+  - Links externos: no máximo 2 por artigo
+  - FAQ com schema (mínimo 4, máximo 6 perguntas)
   - Imagens WebP (geradas via Stability AI)
 - Artigos informativos: mesma base sem tabela/produtos
 - Se couber infoproduto/ebook: avisar José Júnio antes
+
+### 2.1 Regra de Títulos e Desenvolvimento
+- Palavra-chave primária no começo do título
+- Desenvolver o tema no contexto do título (ex: se fala de "copa", desenvolver no ambiente de copa)
+- Título até 64 caracteres
+
+### 2.2 Regra de Cauda Longa (Keywords)
+- **NUNCA repetir a keyword primária exata** em múltiplos artigos do mesmo blog
+- Se já existe artigo com "xxx", criar variações em cauda longa:
+  - "xxx é boa"
+  - "xxx com yyy"
+  - "xxx para zzz"
+  - "melhor xxx para [contexto]"
+- Verificar keywords existentes antes de criar novo artigo
+
+### 2.3 Regra de Links Internos em Rascunhos
+- Artigos em rascunho: **NÃO** colocar links internos
+- Adicionar links internos somente **DEPOIS** de publicar o artigo
+- Motivo: links para posts não publicados geram 404
 
 ### 3. Agendar publicação
 - Frequência: 2 artigos por dia
