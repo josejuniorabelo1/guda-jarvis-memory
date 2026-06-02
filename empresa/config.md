@@ -1,71 +1,67 @@
-# 🏢 Empresa — Contexto Compartilhado
+# 🏢 Contexto da Empresa
 
-**Data:** 2026-05-28
-**Status:** Setup inicial
-
----
-
-## 📋 Informações Gerais
-
-- **Proprietário:** José Junio Rabelo
-- **Timezone:** America/Sao_Paulo (BRT)
-- **Idioma:** Português-BR
+**Atualizado:** 2026-06-02
 
 ---
 
-## 💼 Clientes
+## Informações Gerais
 
-### digitalser.com.br
-- **Tipo:** WordPress
-- **Status:** Em otimização PageSpeed
-- **Admin User:** admin (reCAPTCHA desativado)
-- **Cookies:** /tmp/wordpress_cookies.txt (sessão ativa)
-- **KPI:** Mobile conversions (prioridade)
-- **Performance Target:** 72-82 (após otimizações)
-
----
-
-## 🎯 Projetos
-
-### Projeto 1: Otimização PageSpeed - digitalser.com.br
-- **Status:** Em progresso
-- **Atividades Completas:**
-  - ✅ Desativado MonsterInsights (duplicava Google Analytics)
-  - ✅ Ativado WP Rocket com configurações agressivas
-  - ✅ Limpeza de database (revisions, drafts, trash)
-  - ✅ Mobile-first optimization
-- **Próximos Passos:**
-  - ⏳ Testar performance após cache warming (48h)
-  - ⏳ Implementar monitoramento contínuo
+| Campo | Valor |
+|-------|-------|
+| **Proprietário** | José Júnio Rabelo |
+| **Timezone** | America/Sao_Paulo (UTC-3) |
+| **Idioma** | Português-BR |
+| **Modelo de negócio** | Blogs de afiliados (Amazon, Mercado Livre, infoprodutos) |
+| **Faturamento** | Afiliados (CPA/CPC) + AdSense |
 
 ---
 
-## 🔧 Processos
+## Portfolio de Blogs
 
-### Otimização de WordPress
-1. Desativar plugins duplicados (MonsterInsights, etc)
-2. Ativar cache (WP Rocket com lazy load)
-3. Minificar CSS/JS
-4. Limpar database
-5. Monitorar performance
-
-### Monitoramento de Memória
-1. CRON a cada 15min
-2. Se MEM > 80% → kill + restart
-3. Log em GitHub + Telegram alert
+| Blog | URL | Nicho | Monetização | Status |
+|------|-----|-------|-------------|--------|
+| Portal da Vitamina | portadavitamina.com.br | Vitaminas e saúde | Afiliado | 🟢 Produção ativa |
+| Guia Culinária | guiaculinaria.com.br | Review produtos cozinha | Amazon + ML | 🟢 Monetização ativa |
+| Bom Suplemento | bomsuplemento.com.br | Suplementos | Afiliado | 🟡 Pendente |
+| IA Concurso | iaconcurso.com.br | IA + Concurso Público | Afiliado/Infoproduto | ⏸ Pausado |
+| Cozinha Decorada | cozinhadecorada.com.br | Cozinha geral | Afiliado | 🟡 Pendente |
 
 ---
 
-## 🔐 Credenciais & Tokens
+## Clientes Externos
 
-⚠️ **Nenhuma credencial deve ser armazenada aqui!**
-Usar `.env` ou arquivo protegido.
+| Cliente | URL | Serviço | Status |
+|---------|-----|---------|--------|
+| DigitalSer | digitalser.com.br | Otimização WordPress/PageSpeed | ✅ Concluído |
 
 ---
 
-## 🔗 Recursos
+## Infraestrutura
 
-- **Repos:** https://github.com/josejuniorabelo1/
-- **Hermes Agent:** /usr/local/lib/hermes-agent/
-- **VPS:** CentOS 8, GLIBC 2.17
+| Recurso | Detalhes |
+|---------|----------|
+| VPS | vmid5150 — CentOS 8, 8GB RAM |
+| Agente | Jarvis (OpenClaw) — Claude Sonnet 4 |
+| Comunicação | Telegram (@jaraborj_bot) |
+| Repo | github.com/josejuniorabelo1/guda-jarvis-memory (privado) |
+| WordPress | 5 blogs com user Davi (admin) |
+| Imagens | Stability AI API |
 
+---
+
+## Ferramentas em Uso
+
+- **OpenClaw** — Agente autônomo (Jarvis)
+- **WordPress** — CMS dos blogs (REST API)
+- **GitHub** — Segundo cérebro + versionamento
+- **Telegram** — Canal de comunicação
+- **Stability AI** — Geração de imagens WebP
+- **Semrush** — Pesquisa de keywords (José opera manualmente)
+- **Google Analytics / Search Console** — Métricas (acesso a verificar)
+
+---
+
+## Tag de Afiliado
+
+- **Amazon:** `josejuniorabe-20`
+- **Mercado Livre:** A definir
