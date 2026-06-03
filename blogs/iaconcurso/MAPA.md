@@ -1,17 +1,24 @@
 # 🗺 Mapa do Blog — IA Concurso
 
-**Nicho:** Concursos & Estudos
-**Atualizado:** 2026-05-29
+**Nicho:** IA para Concurso Público  
+**URL:** https://iaconcurso.com  
+**Atualizado:** 2026-06-03  
 **Status:** 🟢 Ativo
+
+---
+
+## ❗ Consulte este MAPA antes de implementar qualquer mudança
+
+Antes de executar qualquer ação no IA Concurso, leia este mapa para entender a estrutura, rotinas e regras vigentes.
 
 ---
 
 ## 📍 Navegação Rápida
 
 ### 1️⃣ Estratégia
-- [Overview](./1-estrategia/overview.md)
-- [Config](./1-estrategia/config.md)
-- [Objetivos & KPIs](./1-estrategia/objetivos.md)
+- [Overview](./1-estrategia/overview.md) — nicho, público, posicionamento
+- [Config](./1-estrategia/config.md) — URLs, credenciais, setup técnico
+- [Objetivos & KPIs](./1-estrategia/objetivos.md) — metas e métricas
 
 ### 2️⃣ Conteúdo
 - [Pautas](./2-conteudo/pautas.md)
@@ -21,38 +28,39 @@
 - [Posts Publicados](./2-conteudo/posts-publicados.md)
 
 ### 3️⃣ Tráfego & Analytics
-- [Análise Geral](./3-trafego/analise-geral.md)
-- [Keywords & Oportunidades](./3-trafego/keywords.md)
-- [Top Posts](./3-trafego/top-posts.md)
-- [Tendências](./3-trafego/tendencias.md)
-
-### 4️⃣ Monetização
-- [Afiliados & Performance](./4-monetizacao/afiliados.md)
-- [Relatório de Vendas](./4-monetizacao/relatorio-vendas.md)
+- [Análise Geral](./3-trafego/analise-geral.md) — semanal (seg 09:00 BRT)
 
 ### 5️⃣ SEO & Health
 - [Audit Técnico](./5-seo-health/audit.md)
-- [Core Web Vitals](./5-seo-health/core-web-vitals.md)
-- [Mobile](./5-seo-health/mobile.md)
-
-### 7️⃣ Referências
-- [Fontes Confiáveis](./7-referencias/fontes-confiaveis.md)
-- [Concorrentes](./7-referencias/concorrentes.md)
-- [Pesquisas de Produtos](./7-referencias/pesquisas-produtos.md)
 
 ---
 
 ## 📊 Dashboard Rápido
 
-- Visitantes (mês): --
-- Top Keyword: --
-- Conversões: --
-- Bounce Rate: --
+| Métrica | Valor |
+|---------|-------|
+| Posts publicados | 27 |
+| Frequência | 2x/dia (07:03 e 18:03 BRT) |
+| Top Keyword | -- |
+| Visitantes/mês | -- (GA4 pendente) |
+| Monetização | Nenhuma ativa |
 
 ---
 
-## 🔄 Próximas Ações
+## 🔄 Rotinas
 
-- [ ] Definir pautas do mês
-- [ ] Atualizar keywords
-- [ ] Revisar SEO audit
+| Rotina | Frequência | Descrição |
+|--------|------------|----------|
+| Análise de tráfego | Semanal (seg 09:00 BRT) | GA4 + Search Console com detalhes |
+| Posts publicados (resumo) | Diário (18:30 BRT) | Confirmação junto com outros blogs |
+| Publicação automática | 2x/dia (07:03, 18:03) | Via WordPress scheduled posts |
+
+---
+
+## ⚠️ Pendências
+
+- [ ] Gerar Application Password no WP (login cookie não funciona via API)
+- [ ] Configurar GA4 Property ID
+- [ ] Verificar Search Console para iaconcurso.com
+- [ ] Definir estratégia de monetização
+- [ ] Configurar OAuth token para API GA4

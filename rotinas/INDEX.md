@@ -1,6 +1,6 @@
 # 🔄 Rotinas — Índice
 
-**Atualizado:** 2026-06-02
+**Atualizado:** 2026-06-03
 
 ---
 
@@ -12,6 +12,8 @@
 | Alerta depleção posts | Heartbeat | Se posts agendados acabam em ≤4 dias, alerta | Telegram |
 | Notificação publicação | Heartbeat | Avisa quando artigo agendado vai ao ar | Telegram |
 | Monitor afiliados Guia Culinária | Semanal (seg) | Verifica cliques, links, limpeza de artigos | Telegram |
+| Análise de tráfego (todos os sites) | Semanal (seg 09:00 BRT) | GA4 + Search Console com detalhes por blog | Telegram |
+| Resumo diário de posts publicados | Diário (18:30 BRT) | Confirma artigos do dia + agendados amanhã | Telegram |
 
 ---
 
@@ -20,7 +22,7 @@
 | Blog | Horários de publicação | Status |
 |------|----------------------|--------|
 | Portal da Vitamina | 08:00, 10:00, 12:00, 14:00, 16:00 BRT | 🟢 Ativo (até 25/06) |
-| IA Concurso | 07:30, 17:00 BRT | ⏸ Pausado (não criar novos) |
+| IA Concurso | 07:03, 18:03 BRT | 🟢 Ativo |
 | Guia Culinária | Sem agendamento fixo atual | ⏸ Manual |
 | Bom Suplemento | Sem agendamento fixo atual | ⏸ Pendente |
 | Cozinha Decorada | Sem agendamento fixo atual | ⏸ Pendente |
