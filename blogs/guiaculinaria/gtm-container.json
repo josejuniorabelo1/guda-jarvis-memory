@@ -1,0 +1,178 @@
+{
+  "name": "GTM-GuiaCulinaria-Container",
+  "description": "Container completo para rastreamento TOTAL do Guia Culinária",
+  "containerVersion": {
+    "container": {
+      "name": "Guia Culinária",
+      "containerId": "GTM-PNRV7BKF",
+      "fingerprint": "1717939200000"
+    },
+    "tag": [
+      {
+        "name": "GA4 - Pageview",
+        "type": "gaawc",
+        "parameter": [
+          {"key": "trackingId", "value": {"type": "STRING", "string": "G-XXXXXXXXXX"}},
+          {"key": "trackPageview", "value": {"type": "BOOLEAN", "boolean": true}}
+        ]
+      },
+      {
+        "name": "Clique - VER MELHOR PREÇO (Amazon)",
+        "type": "custom_event",
+        "parameter": [
+          {"key": "eventName", "value": {"type": "STRING", "string": "click_amazon_afiliado"}}
+        ],
+        "firingTrigger": [
+          {"triggerType": "CUSTOM_EVENT", "eventName": "click_amazon"}
+        ]
+      },
+      {
+        "name": "Clique - VER MELHOR PREÇO (Mercado Livre)",
+        "type": "custom_event",
+        "parameter": [
+          {"key": "eventName", "value": {"type": "STRING", "string": "click_ml_afiliado"}}
+        ],
+        "firingTrigger": [
+          {"triggerType": "CUSTOM_EVENT", "eventName": "click_mercadolivre"}
+        ]
+      },
+      {
+        "name": "Scroll 25%",
+        "type": "custom_event",
+        "parameter": [
+          {"key": "eventName", "value": {"type": "STRING", "string": "scroll_25"}}
+        ],
+        "firingTrigger": [
+          {"triggerType": "CUSTOM_EVENT", "eventName": "scroll_25"}
+        ]
+      },
+      {
+        "name": "Scroll 50%",
+        "type": "custom_event",
+        "parameter": [
+          {"key": "eventName", "value": {"type": "STRING", "string": "scroll_50"}}
+        ],
+        "firingTrigger": [
+          {"triggerType": "CUSTOM_EVENT", "eventName": "scroll_50"}
+        ]
+      },
+      {
+        "name": "Scroll 75%",
+        "type": "custom_event",
+        "parameter": [
+          {"key": "eventName", "value": {"type": "STRING", "string": "scroll_75"}}
+        ],
+        "firingTrigger": [
+          {"triggerType": "CUSTOM_EVENT", "eventName": "scroll_75"}
+        ]
+      },
+      {
+        "name": "Scroll 100% (Fim da página)",
+        "type": "custom_event",
+        "parameter": [
+          {"key": "eventName", "value": {"type": "STRING", "string": "scroll_100"}}
+        ],
+        "firingTrigger": [
+          {"triggerType": "CUSTOM_EVENT", "eventName": "scroll_100"}
+        ]
+      },
+      {
+        "name": "Webhook para Sheets - Dados de Rastreamento",
+        "type": "custom_html",
+        "html": "<script>\n(function() {\n  // Captura eventos e envia para Google Sheets via webhook\n  var SHEETS_WEBAPP_URL = 'COLOQUE_AQUI_O_URL_DO_GOOGLE_APPS_SCRIPT';\n  \n  window.dataLayer = window.dataLayer || [];\n  \n  // Listener para clicks\n  document.addEventListener('click', function(e) {\n    var target = e.target.closest('a');\n    if (!target) return;\n    \n    var href = target.href || '';\n    var text = target.innerText || '';\n    \n    if (href.includes('amzn.to') || href.includes('amazon.com.br')) {\n      window.dataLayer.push({\n        event: 'afiliado_click',\n        eventCategory: 'Afiliado Amazon',\n        eventAction: 'Click',\n        eventLabel: text,\n        linkUrl: href,\n        pageUrl: window.location.href,\n        pageTitle: document.title\n      });\n    } else if (href.includes('mercadolivre')) {\n      window.dataLayer.push({\n        event: 'afiliado_click',\n        eventCategory: 'Afiliado Mercado Livre',\n        eventAction: 'Click',\n        eventLabel: text,\n        linkUrl: href,\n        pageUrl: window.location.href,\n        pageTitle: document.title\n      });\n    } else if (href.includes('/go/')) {\n      window.dataLayer.push({\n        event: 'shortlink_click',\n        eventCategory: 'Shortlink interno',\n        eventAction: 'Click',\n        eventLabel: href,\n        pageUrl: window.location.href\n      });\n    }\n  });\n  \n  // Listener para scroll\n  var scrollMarks = {25: false, 50: false, 75: false, 100: false};\n  window.addEventListener('scroll', function() {\n    var h = document.documentElement;\n    var scrollTop = h.scrollTop || document.body.scrollTop;\n    var scrollHeight = h.scrollHeight - h.clientHeight;\n    var scrolled = (scrollTop / scrollHeight) * 100;\n    \n    if (scrolled >= 25 && !scrollMarks[25]) {\n      scrollMarks[25] = true;\n      window.dataLayer.push({event: 'scroll_depth', depth: 25, page: window.location.pathname});\n    }\n    if (scrolled >= 50 && !scrollMarks[50]) {\n      scrollMarks[50] = true;\n      window.dataLayer.push({event: 'scroll_depth', depth: 50, page: window.location.pathname});\n    }\n    if (scrolled >= 75 && !scrollMarks[75]) {\n      scrollMarks[75] = true;\n      window.dataLayer.push({event: 'scroll_depth', depth: 75, page: window.location.pathname});\n    }\n    if (scrolled >= 95 && !scrollMarks[100]) {\n      scrollMarks[100] = true;\n      window.dataLayer.push({event: 'scroll_depth', depth: 100, page: window.location.pathname});\n    }\n  });\n  \n  // Envia para Google Sheets a cada evento\n  window.addEventListener('message', function(e) {\n    if (e.data && e.data.gtmEvent) {\n      fetch(SHEETS_WEBAPP_URL, {\n        method: 'POST',\n        mode: 'no-cors',\n        headers: {'Content-Type': 'application/json'},\n        body: JSON.stringify(e.data)\n      });\n    }\n  });\n})();\n</script>"
+      }
+    ],
+    "trigger": [
+      {
+        "name": "All Pages - Pageview",
+        "type": "PAGEVIEW"
+      },
+      {
+        "name": "Click - Botão Amazon",
+        "type": "CLICK_ELEMENT",
+        "filter": [
+          {"leftValue": {"type": "TEXT", "string": "{{Click Element}}"}}
+        ],
+        "waitForTags": {"useTt": true, "timeoutSeconds": 5}
+      },
+      {
+        "name": "Scroll - 25%",
+        "type": "SCROLL_DEPTH",
+        "verticalScrollUnit": "percent",
+        "depthPercentage": 25
+      },
+      {
+        "name": "Scroll - 50%",
+        "type": "SCROLL_DEPTH",
+        "verticalScrollUnit": "percent",
+        "depthPercentage": 50
+      },
+      {
+        "name": "Scroll - 75%",
+        "type": "SCROLL_DEPTH",
+        "verticalScrollUnit": "percent",
+        "depthPercentage": 75
+      },
+      {
+        "name": "Scroll - 100%",
+        "type": "SCROLL_DEPTH",
+        "verticalScrollUnit": "percent",
+        "depthPercentage": 100
+      },
+      {
+        "name": "Click em links Amazon",
+        "type": "CLICK_URL",
+        "filter": [
+          {"operator": "CONTAINS", "leftValue": {"type": "URL", "url": ""}, "rightValue": {"type": "CONSTANT", "string": "amzn.to"}},
+          {"operator": "CONTAINS", "leftValue": {"type": "URL", "url": ""}, "rightValue": {"type": "CONSTANT", "string": "amazon.com.br"}}
+        ]
+      },
+      {
+        "name": "Click em links Mercado Livre",
+        "type": "CLICK_URL",
+        "filter": [
+          {"operator": "CONTAINS", "leftValue": {"type": "URL", "url": ""}, "rightValue": {"type": "CONSTANT", "string": "mercadolivre"}}
+        ]
+      },
+      {
+        "name": "Click em shortlinks /go/",
+        "type": "CLICK_URL",
+        "filter": [
+          {"operator": "STARTS_WITH", "leftValue": {"type": "URL", "url": ""}, "rightValue": {"type": "CONSTANT", "string": "/go/"}}
+        ]
+      }
+    ],
+    "variable": [
+      {
+        "name": "Click Text",
+        "type": "c",
+        "parameter": [{"key": "value", "value": {"type": "STRING", "string": "{{Click Element}}"}}]
+      },
+      {
+        "name": "Click URL",
+        "type": "u",
+        "parameter": [{"key": "value", "value": {"type": "STRING", "string": "{{Click URL}}"}}]
+      },
+      {
+        "name": "Page Path",
+        "type": "c",
+        "parameter": [{"key": "value", "value": {"type": "STRING", "string": "{{Page Path}}"}}]
+      },
+      {
+        "name": "Page Title",
+        "type": "c",
+        "parameter": [{"key": "value", "value": {"type": "STRING", "string": "{{Page Title}}"}}]
+      },
+      {
+        "name": "Referrer",
+        "type": "c",
+        "parameter": [{"key": "value", "value": {"type": "STRING", "string": "{{Referrer}}"}}]
+      },
+      {
+        "name": "GA4 Measurement ID",
+        "type": "constant",
+        "parameter": [{"key": "value", "value": {"type": "STRING", "string": "G-XXXXXXXXXX"}}]
+      }
+    ]
+  }
+}
