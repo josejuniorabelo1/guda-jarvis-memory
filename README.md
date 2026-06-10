@@ -1,39 +1,24 @@
-# 🧠 Segundo Cérebro — José Júnio Rabelo
+# Jarvis Memory - Guia Culinária
 
-Repositório central de conhecimento, skills e rotinas para o agente Jarvis (OpenClaw).
+Repositório de memória e configuração do Jarvis para o projeto Guia Culinária.
 
-**Qualquer agente ou ferramenta acessa o mesmo contexto aqui.**
+## Estrutura
 
----
+- `skills/site-analytics/` - Skill de monitoramento de performance
+- `audit-report-20260610.md` - Auditoria completa do site
+- `traffic-comparison.json` - Dados comparativos de tráfego
 
-## 🚀 Quick Start
+## APIs Disponíveis
 
-1. Veja `MAPA.md` para entender a estrutura completa
-2. Blogs e estratégia: `blogs/README.md`
-3. Skills disponíveis: `skills/INDEX.md`
-4. Rotinas/crons ativos: `rotinas/INDEX.md`
-5. Credenciais: `.env-blogs` (local, não versionado)
+- **Google Search Console**: Trafego orgânico, posicoes, CTR
+- **WordPress REST/XML-RPC**: Conteudo, atualizacoes
+- **GCAM Monitor**: Cliques em links de afiliados
+- **Google Tag Manager**: Eventos GA4 (pageview, scroll, cliques)
 
----
+## Scripts
 
-## 📊 Status Atual
+- `skills/site-analytics/weekly-report.py` - Relatorio semanal automatizado
 
-| Área | Status |
-|------|--------|
-| Portal da Vitamina | 🟢 50 posts agendados (até 25/06) |
-| Guia Culinária | 🟢 Monetização ativa, monitor semanal |
-| Bom Suplemento | 🟡 Aguardando próximo lote |
-| IA Concurso | ⏸ Pausado |
-| Cozinha Decorada | 🟡 Aguardando próximo lote |
+## Config
 
----
-
-## 🏗 Baseado em
-
-[Imersão OpenClaw nos Negócios](https://github.com/pixel-educacao/imersao-openclaw-negocios) — Pixel Educação (Mar/2026)
-
-Princípios: Cérebro compartilhado (Nível 3), Skills > Prompts, Crons + Heartbeats, Segurança em 3 camadas.
-
----
-
-**Última atualização:** 2026-06-02
+Ver `skills/site-analytics/config.json` para sites monitorados.

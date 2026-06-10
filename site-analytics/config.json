@@ -1,0 +1,22 @@
+{
+  "sites": {
+    "guiaculinaria.com.br": {
+      "name": "Guia Culinária",
+      "wordpress_url": "https://guiaculinaria.com.br",
+      "sc_url": "sc-domain:guiaculinaria.com.br",
+      "amazon_tag": "josejuniorabe-20",
+      "monitored_slugs": [
+        "air-fryer-forno-qual-a-melhor",
+        "air-fryer-oven-qual-a-melhor",
+        "batedeira-britania-bbt350-e-boa",
+        "batedeira-planetaria-mondial-700w-e-boa"
+      ]
+    }
+  },
+  "alert_thresholds": {
+    "position_warning": 10,
+    "clicks_for_alert": 5,
+    "scroll_depth_min": 25,
+    "affiliate_ctr_min": 0.5
+  }
+}
