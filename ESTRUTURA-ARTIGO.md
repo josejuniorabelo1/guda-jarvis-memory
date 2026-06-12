@@ -6,26 +6,26 @@
 
 ```
 1. CSS Styles (copiar do artigo de referência)
-2. H1 Title - Palavra-chave primária forte
-3. Parágrafo introdutório breve
-4. Tabela Comparativa (imagem + nome + badge + especificações + botão)
-5. H2 - Introdução com palavra-chave primária
-6. Texto introdutório (2-3 parágrafos)
-7. Para cada produto (17x):
-   - H3 com nome do produto
-   - div.gc-produto-afiliado (imagem + nome + botão)
-   - H3 subtítulo do produto
+2. H1 Title - NÃO REPETIR no H2; usar formato diferente (Como..., As nº..., ...é boa?)
+3. Tabela Comparativa (IMEDIATAMENTE após H1 - antes de qualquer H2)
+   - Imagem + Nome do produto + Badge (Melhor escolha/Mais vendido/Custo-benefício) + Especificações + Botão
+4. H2 - Introdução (palavra-chave primária, título DIFERENTE do H1)
+5. Texto introdutório (2-3 parágrafos) - palavra-chave primária no primeiro parágrafo
+6. Para cada produto (17x):
+   - H3 com nome do produto (sem "Review completo do" antes)
+   - div.gc-produto-afiliado (imagem + nome + botão) - SOMENTE isso, sem H3 antes
+   - H3 subtítulo (ex: "Review completo do [nome]")
    - Texto de review (mínimo 50-100 palavras por produto)
-8. H2 - Palavra-chave secundária 1 + conteúdo
-9. H2 - Palavra-chave secundária 2 + conteúdo
-10. H2 - Palavra-chave secundária 3 + conteúdo
-11. H2 - Conclusão (palavra-chave primária)
-12. FAQ com schema.org
+7. H2 - Palavra-chave secundária 1 + conteúdo (2-3 parágrafos)
+8. H2 - Palavra-chave secundária 2 + conteúdo (2-3 parágrafos)
+9. H2 - Palavra-chave secundária 3 + conteúdo (2-3 parágrafos)
+10. H2 - Conclusão (palavra-chave primária no título)
+11. FAQ com schema.org (4-5 perguntas)
 ```
 
 ### Regras de SEO
 
-- **Palavra-chave primária** "liquidificadores" em:
+- **Palavra-chave primária** em:
   - H1 (title)
   - 2+ H2 (intro e conclusão)
   - 1-2 H3 (reviews)
@@ -33,24 +33,31 @@
   - Meta description
 
 - **Palavra-chave secundária** em:
-  - 2-3 H2 adicionais (potência, custo-benefício, mais vendidos)
+  - 3 H2 adicionais (potência, custo-benefício, mais vendidos, como escolher, etc)
 
 - **Mínimo de palavras**: 900 (para 17 produtos, target 2500+)
 
-### Exemplo Real - Liquidificadores
+### Exemplo Real - Geladeiras
 
-**H1:** Os 17 Melhores Liquidificadores de 2026: Potência, Custo-Benefício e Qualidade
+**H1:** Melhores Geladeiras com Gelo na Porta
+
+**Tabela (logo após H1):**
+- Geladeira Electrolux Multidoor Efficient | Badge: Econônico | Especificações | [VER MELHOR PREÇO]
+- Geladeira Brastemp French Door | Badge: Custo benefício | Especificações | [VER MELHOR PREÇO]
+- Geladeira Panasonic Frost Free 480L | Badge: Oferta | Especificações | [VER MELHOR PREÇO]
+- (... mais produtos ...)
 
 **H2s:**
-- Melhores liquidificadores 2026: como escolher o ideal para sua cozinha
-- Como escolher o melhor liquidificador: potencia e capacidade
-- Liquidificador bom e barato: vale a pena?
-- Liquidificadores mais vendidos e avaliados de 2026
-- Conclusao: qual o melhor liquidificador de 2026?
+- "Melhores geladeiras com gelo na porta: guia completo para escolher" (intro com keyword)
+- "Como escolher a melhor geladeira com gelo na porta" (secundária)
+- "Vale a pena comprar geladeira com gelo na porta?" (secundária)
+- "Conclusão" (keyword no título)
 
 **H3s por produto:**
-- [Nome do produto]
-- Review completo do [nome do produto]
+- H3: Geladeira Electrolux Multidoor
+- div.gc-produto-afiliado (imagem + nome + botão)
+- H3: Boa escolha para quem quer dispenser de água e gelo
+- Texto: pontos positivos, pontos de atenção
 
 ### Meta Description
 
@@ -99,14 +106,24 @@ liquidificador para sua cozinha. Verifique especificações, potência e custo-b
 
 ### Checklist de Publicação
 
-- [ ] Título H1 com palavra-chave primária
+- [ ] H1 com palavra-chave primária (formato: Como..., As nº..., ...é boa?)
 - [ ] Meta description com palavra-chave (150-160 chars)
-- [ ] Tabela comparativa após H1 (com badge nos top 3)
-- [ ] H2 introdutório com palavra-chave
-- [ ] Cada produto: H3 + gc-produto-afiliado + H3 + texto
-- [ ] Mínimo 900 palavras (target 2500+)
-- [ ] 2+ H2 com palavra-chave primária
-- [ ] 3 H2 com palavras-chave secundárias
+- [ ] Tabela comparativa IMEDIATAMENTE após H1 (antes de qualquer H2)
+- [ ] Tabela com badges nos top 3 (Melhor escolha, Mais vendido, Custo-benefício)
+- [ ] H2 introdutório com palavra-chave (título DIFERENTE do H1)
+- [ ] Palavra-chave no primeiro parágrafo após H2
+- [ ] Cada produto: H3 nome → div.gc-produto-afiliado (imagem+nome+botão) → H3 subtítulo → texto
+- [ ] 3+ H2 com palavras-chave secundárias
+- [ ] H2 conclusão com palavra-chave primária
+- [ ] Mínimo 900 palavras (target 2500+ para 17 produtos)
 - [ ] FAQ com schema.org
 - [ ] Imagens com alt text otimizado
 - [ ] Links com rel="nofollow sponsored noopener"
+
+### Erros Comuns a Evitar
+
+1. ❌ NÃO criar H1 duplicado
+2. ❌ NÃO colocar tabela depois de H2 (deve ser logo após H1)
+3. ❌ NÃO repetir H1 no H2 (usar título diferente)
+4. ❌ NÃO colocar H3 antes da div.gc-produto-afiliado
+5. ❌ NÃO criar review genérico igual para todos os produtos
