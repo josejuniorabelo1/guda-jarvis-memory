@@ -1,0 +1,31 @@
+NUM;TIPO;CLUSTER;TITLE;SLUG;KW1;KW2;QTD_PRODUTOS;PRODUTOS
+1;review;moedor-de-cafe;Melhor Moedor de Cafe de 2026;melhor-moedor-de-cafe;melhor moedor de cafe;moedor de cafe qual o melhor;4;Hamilton Beach 80380150W|Oster 4862 180W|Tramontina Breville BCG820 200W|Hario Skerton Plus Manual
+2;review;moedor-de-cafe;Melhor Moedor de Cafe Eletrico de 2026;melhor-moedor-de-cafe-eletrico;melhor moedor de cafe eletrico;moedor de cafe eletrico qual o melhor;3;Hamilton Beach 80380 150W|Oster 4862 180W|Cadence Di Grano 160W
+3;review;moedor-de-cafe;Melhor Moedor de Cafe Manual de 2026;melhor-moedor-de-cafe-manual;melhor moedor de cafe manual;moedor manual de cafe qual o melhor;3;Hario Skerton Plus|Javaplex JS-001|Commandante C40
+4;review;moedor-de-cafe;Moedor de Cafe Hamilton Beach e Bom?;moedor-de-cafe-hamilton-beach-e-bom;moedor de cafe hamilton beach e bom;hamilton beach moedor de cafe;2;Hamilton Beach 80380 150W|Hamilton Beach 80466 160W
+5;review;moedor-de-cafe;Moedor de Cafe Oster e Bom?;moedor-de-cafe-oster-e-bom;moedor de cafe oster e bom;moedor de cafe oster;2;Oster 4862 180W|Oster 4863 150W
+6;review;moedor-de-cafe;Moedor de Cafe Tramontina e Bom?;moedor-de-cafe-tramontina-e-bom;moedor de cafe tramontina e bom;tramontina moedor de cafe;2;Tramontina Breville BCG820 200W|Tramontina Eletrico 160W
+7;review;moedor-de-cafe;Qual o Melhor Moedor de Cafe? Guia Completo 2026;qual-o-melhor-moedor-de-cafe-guia-completo;qual o melhor moedor de cafe;moedor de cafe qual o melhor;4;Hamilton Beach 80380|Oster 4862|Hario Skerton Plus|Tramontina Breville BCG820
+8;review;moedor-de-cafe;Moedor de Cafe Cadence e Bom?;moedor-de-cafe-cadence-e-bom;moedor de cafe cadence e bom;cadence moedor de cafe;2;Cadence Di Grano 160W|Cadence Eletrico 150W
+9;review;moedor-de-cafe;Moedor de Cafe Philco e Bom?;moedor-de-cafe-philco-e-bom;moedor de cafe philco e bom;philco moedor de cafe;2;Philco Grano Aroma 160W|Philco Eletrico 150W
+10;receita;moedor-de-cafe;Como Moer Cafe na Hora: O Guia Definitivo;como-moer-cafe-na-hora-guia-definitivo;como moer cafe na hora;cafe moido na hora;0;-
+11;review;cafeteira-italiana;Melhor Cafeteira Italiana Inox de 2026;melhor-cafeteira-italiana-inox;melhor cafeteira italiana inox;cafeteira italiana em inox;3;Bialetti Moka Express 6xc Inox|Cadence Moka Gran 1.5L Inox|Tramontina Moka 600ml Inox
+12;review;cafeteira-italiana;Melhor Cafeteira Italiana Eletrica de 2026;melhor-cafeteira-italiana-eletrica;melhor cafeteira italiana eletrica;cafeteira italiana eletrica;2;Cadence Moka Eletrica 750ml|Bialetti Moka Eletrica
+13;review;cafeteira-italiana;Cafeteira Italiana Bialetti e Boa?;cafeteira-italiana-bialetti-e-boa;cafeteira italiana bialetti e boa;bialetti cafeteira italiana;3;Bialetti Moka Express 6xc|Bialetti Moka Express 3xc|Bialetti Moka Express 9xc
+14;review;cafeteira-italiana;Cafeteira Italiana Cadence e Boa?;cafeteira-italiana-cadence-e-boa;cafeteira italiana cadence e boa;cadence cafeteira italiana;2;Cadence Moka Gran 1.5L|Cadence Moka 750ml
+15;review;cafeteira-italiana;Cafeteira Italiana Moka: Como Usar e Escolher;cafeteira-italiana-moka-como-usar;cafeteira italiana moka;cafeteira moka italiana;3;Bialetti Moka Express 6xc|Cadence Moka 750ml|Tramontina Moka 600ml
+16;review;cafeteira-italiana;Cafeteira Italiana Tramontina e Boa?;cafeteira-italiana-tramontina-e-boa;cafeteira italiana tramontina e boa;tramontina cafeteira italiana;2;Tramontina Moka 600ml Inox|Tramontina Moka1L Inox
+17;receita;cafeteira-italiana;Como Fazer Cafe na Cafeteira Italiana;como-fazer-cafe-na-cafeteira-italiana;como fazer cafe na cafeteira italiana;como usar cafeteira italiana;0;-
+18;receita;cafeteira-italiana;Como Escolher Tamanho da Cafeteira Italiana;como-escolher-tamanho-cafeteira-italiana;cafeteira italiana tamanho ideal;cafeteira italiana 6 ou 9 xicaras;0;-
+19;review;maquina-de-gelo;Melhor Maquina de Gelo de 2026;melhor-maquina-de-gelo;melhor maquina de gelo;maquina de fazer gelo qual a melhor;4;Mondial MG-12 GI Turbo Ice Premium|Philco PMG01PI|Suggar FAC40|Portatil 12kg
+20;review;maquina-de-gelo;Melhor Maquina de Gelo Portatil de 2026;melhor-maquina-de-gelo-portatil;melhor maquina de gelo portatil;maquina de fazer gelo portatil;2;Portatil 12kg/dia|Philco PMG01PI Portatil
+21;review;maquina-de-gelo;Maquina de Gelo Everest e Boa?;maquina-de-gelo-everest-e-boa;maquina de gelo everest e boa;maquina de gelo everest;2;Everest EGC 50A 50kg|Everest EGC 150 150kg
+22;review;maquina-de-gelo;Maquina de Gelo Philco e Boa?;maquina-de-gelo-philco-e-boa;maquina de gelo philco e boa;philco maquina de gelo;2;Philco PMG01PI|Philco PMG02T
+23;receita;maquina-de-gelo;Como Usar Maquina de Gelo: Guia Completo;como-usar-maquina-de-gelo-guia-completo;como usar maquina de gelo;maquina de fazer gelo como funciona;0;-
+24;review;cafeteira-tres-coracoes;Melhor Cafeteira Capsula Tres Coracoes de 2026;melhor-cafeteira-capsula-tres-coracoes;melhor cafeteira capsula tres coracoes;cafeteira capsula tres coracoes;3;Tres Coracoes Passione|Três Coracoes Love|Três Coracoes Mimo
+25;review;cafeteira-tres-coracoes;Cafeteira Tres Coracoes Passione e Boa?;cafeteira-tres-coracoes-passione-e-boa;cafeteira tres coracoes passione e boa;tres coracoes passione;2;Tres Coracoes Passione|Três Coracoes Passione Touch
+26;receita;cafeteira-tres-coracoes;Como Destravar Cafeteira Tres Coracoes;como-destravar-cafeteira-tres-coracoes;como destravar cafeteira tres coracoes;luz vermelha cafeteira tres coracoes;0;-
+27;receita;cafeteira-tres-coracoes;Como Fazer Cafe na Cafeteira Tres Coracoes;como-fazer-cafe-na-cafeteira-tres-coracoes;como fazer cafe na cafeteira tres coracoes;manual cafeteira tres coracoes;0;-
+28;review;seladora-a-vacuo;Melhor Seladora a Vacuo Domestica de 2026;melhor-seladora-a-vacuo-domestica;melhor seladora a vacuo domestica;seladora a vacuo domestica;3;Electrolux VAC40|Cetro ST-150|Freshpack Domestica
+29;review;seladora-a-vacuo;Seladora a Vacuo Electrolux e Boa?;seladora-a-vacuo-electrolux-e-boa;seladora a vacuo electrolux e boa;seladora electrolux a vacuo;2;Electrolux VAC40|Electrolux VAC30
+30;receita;seladora-a-vacuo;Como Usar Seladora a Vacuo: Guia Pratico;como-usar-seladora-a-vacuo;como usar seladora a vacuo;seladora a vacuo como funciona;0;-
