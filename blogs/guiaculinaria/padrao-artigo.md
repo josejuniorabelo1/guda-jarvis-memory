@@ -48,11 +48,12 @@ Além disso, injetar um `<style>` override no início do conteúdo do post:
     <tr>
       <td>
         <div class="product-info">
-          <img src="..." alt="..." />
+          <!-- ATENÇÃO: H3 vem ANTES da imagem -->
           <div class="product-details">
             <h3>Nome do Produto</h3>
             <span class="badge premium">Recomendada</span>
           </div>
+          <img src="..." alt="Nome do Produto" />
         </div>
       </td>
       <td>
@@ -65,7 +66,7 @@ Além disso, injetar um `<style>` override no início do conteúdo do post:
         </ul>
       </td>
       <td>
-        <a class="amazon-btn" href="/go/XX" target="_blank"
+        <a class="amazon-btn" href="..." target="_blank"
            rel="nofollow noopener sponsored"
            style="display:inline-block!important;background:#000!important;color:#fff!important;
                   padding:12px 18px!important;border-radius:6px!important;
@@ -82,12 +83,12 @@ Além disso, injetar um `<style>` override no início do conteúdo do post:
 
 **Estrutura obrigatória:**
 ```
-<h3>N. Nome Completo do Produto</h3>
+<h3>Nome Completo do Produto - Frase com Palavra-Chave SEO</h3>
 
 <div class="produto-destaque">
   <img src="..." alt="Nome do Produto" loading="lazy" />
-  <br />
-  <a class="amazon-btn" href="/go/XX" target="_blank"
+  <p style="margin-top:12px;margin-bottom:4px;font-weight:700;">Nome do Produto</p>
+  <a class="amazon-btn" href="..." target="_blank"
      rel="nofollow noopener sponsored"
      style="display:inline-block!important;background:#000!important;color:#fff!important;
             padding:12px 18px!important;border-radius:6px!important;
@@ -96,7 +97,7 @@ Além disso, injetar um `<style>` override no início do conteúdo do post:
             box-shadow:none!important;">VER MELHOR PREÇO</a>
 </div>
 
-<p>Texto de análise SEO otimizado com contextualização do produto...</p>
+<p>Texto de análise SEO otimizado com contextualização do produto, mencionando a keyword do H3...</p>
 
 <h4>Especificações</h4>
 <ul>
@@ -108,12 +109,7 @@ Além disso, injetar um `<style>` override no início do conteúdo do post:
   <li>Indicação: perfil ideal</li>
 </ul>
 
-<h4>Prós</h4>
-<ul>
-  <li>...</li>
-</ul>
-
-<h4>Contras</h4>
+<h4>Diferenciais</h4>
 <ul>
   <li>...</li>
 </ul>
@@ -121,7 +117,8 @@ Além disso, injetar um `<style>` override no início do conteúdo do post:
 <p><strong>Melhor para:</strong> frase de conclusão.</p>
 ```
 
-**Ordem dentro do bloco:** H3 (nome) → imagem + botão preto → parágrafo intro → especificações → prós → contras → conclusão
+**Ordem dentro do bloco:**
+H3 (nome + keyword) → produto-destaque (img + nome + botão preto) → texto SEO → especificações → diferenciais → conclusão
 
 ### 4. GUIA DE COMPRA
 ```
