@@ -2,139 +2,180 @@
 
 **Blog:** https://guiaculinaria.com.br
 **Gerenciado por:** Jarvis (OpenClaw)
-**Última atualização:** 2026-06-09
+**Última atualização:** 2026-06-18
+
+---
+
+## ⚠️ CSS DO TEMA — Armadilha Importante
+
+O tema do Guia Culinária impõe `background: var(--amazon-orange) !important` (laranja) nos botões
+`.single-amazon-btn` e `.amazon-btn` via CSS inline no corpo do artigo.
+
+**Solução:** Sempre que inserir botões de afiliado, usar ESTE estilo inline exato para sobrepor:
+
+```html
+<a class="amazon-btn" href="..." target="_blank" rel="nofollow noopener sponsored"
+   style="display:inline-block!important;background:#000!important;color:#fff!important;
+          padding:12px 18px!important;border-radius:6px!important;
+          text-decoration:none!important;font-weight:700!important;
+          text-align:center!important;line-height:1.2!important;
+          box-shadow:none!important;">
+  VER MELHOR PREÇO
+</a>
+```
+
+Além disso, injetar um `<style>` override no início do conteúdo do post:
+```html
+<style>
+.single-amazon-btn,.amazon-btn,a.single-amazon-btn,a.amazon-btn{background:#000!important;box-shadow:none!important;}
+</style>
+```
 
 ---
 
 ## ✅ Estrutura Padrão de Artigo
 
-Todo artigo review/afiliado deve seguir esta estrutura:
-
-### 1. TABELA COMPARATIVA (no início, após introduçao)
-```
-| Produto | Indicação | Especificações | Preço |
-|---------|-----------|----------------|-------|
-```
-- Formato: tabela HTML ou lista lado a lado
-- Colunas: Produto, Indicação (ex: "Recomendada", "Custo-benefício"), Especificações, Botão
-- Botão: `[VER MELHOR PREÇO](https://guiaculinaria.com.br/go/XX)`
-
-### 2. INTRODUÇÃO (2-3 parágrafos)
+### 1. INTRODUÇÃO (2-3 parágrafos)
 - Resposta direta à pergunta/título
-- Contextualização do produto/categoria
+- Contextualização da categoria
 - Promessa do que o artigo entrega
 
-### 3. ANÁLISES INDIVIDUAIS (um section por produto)
+### 2. TABELA COMPARATIVA
+```html
+<table class="compare-table">
+  <thead><tr><th>Produto</th><th>Especificações</th><th>Ação</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>
+        <div class="product-info">
+          <img src="..." alt="..." />
+          <div class="product-details">
+            <h3>Nome do Produto</h3>
+            <span class="badge premium">Recomendada</span>
+          </div>
+        </div>
+      </td>
+      <td>
+        <ul class="specs-list">
+          <li>Marca: X</li>
+          <li>Capacidade: X litros</li>
+          <li>Potência: XW</li>
+          <li>Voltagem: 110V ou 220V</li>
+          <li>Características: ...</li>
+        </ul>
+      </td>
+      <td>
+        <a class="amazon-btn" href="/go/XX" target="_blank"
+           rel="nofollow noopener sponsored"
+           style="display:inline-block!important;background:#000!important;color:#fff!important;
+                  padding:12px 18px!important;border-radius:6px!important;
+                  text-decoration:none!important;font-weight:700!important;
+                  text-align:center!important;line-height:1.2!important;
+                  box-shadow:none!important;">VER MELHOR PREÇO</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ```
-### N. Nome do Produto
 
-[affiliatable id='XXXXX']
+### 3. ANÁLISES INDIVIDUAIS (um bloco por produto)
 
-Texto de análise...
+**Estrutura obrigatória:**
+```
+<h3>N. Nome Completo do Produto</h3>
 
-### Especificações
-- Capacidade: X litros
-- Potência: XW
-- Voltagem: 110V ou 220V
-- Modelo: XXXX
+<div class="produto-destaque">
+  <img src="..." alt="Nome do Produto" loading="lazy" />
+  <br />
+  <a class="amazon-btn" href="/go/XX" target="_blank"
+     rel="nofollow noopener sponsored"
+     style="display:inline-block!important;background:#000!important;color:#fff!important;
+            padding:12px 18px!important;border-radius:6px!important;
+            text-decoration:none!important;font-weight:700!important;
+            text-align:center!important;line-height:1.2!important;
+            box-shadow:none!important;">VER MELHOR PREÇO</a>
+</div>
 
-### Prós
-- Lista de prós
+<p>Texto de análise SEO otimizado com contextualização do produto...</p>
 
-### Contras
-- Lista de contras
+<h4>Especificações</h4>
+<ul>
+  <li>Marca: X</li>
+  <li>Capacidade: X litros</li>
+  <li>Potência: XW</li>
+  <li>Voltagem: 110V ou 220V</li>
+  <li>Linha: X (se aplicável)</li>
+  <li>Indicação: perfil ideal</li>
+</ul>
 
-### Melhor para:
-Frase de conclusão do perfil ideal
+<h4>Prós</h4>
+<ul>
+  <li>...</li>
+</ul>
+
+<h4>Contras</h4>
+<ul>
+  <li>...</li>
+</ul>
+
+<p><strong>Melhor para:</strong> frase de conclusão.</p>
 ```
 
-### 4. GUIA DE COMPRA (antes das FAQs)
-```
-## Como escolher o melhor [PRODUTO]?
+**Ordem dentro do bloco:** H3 (nome) → imagem + botão preto → parágrafo intro → especificações → prós → contras → conclusão
 
-Critérios organizados por importância:
-1. Capacidade/tamanho
-2. Potência
-3. Voltagem
-4. Tipo de painel/controles
-5. Recursos extras
+### 4. GUIA DE COMPRA
+```
+<h2>Como escolher a melhor [PRODUTO]?</h2>
+<p>Critérios organizados por importância...</p>
 ```
 
 ### 5. PERGUNTAS FREQUENTES (FAQs)
 ```
-## Perguntas frequentes
+<h2>Perguntas frequentes</h2>
 
-### Pergunta 1?
-Resposta curta e direta.
-
-### Pergunta 2?
-Resposta...
+<h3>Pergunta 1?</h3>
+<p>Resposta curta e direta.</p>
 ```
 
 ### 6. CONCLUSÃO
 ```
-## Conclusão: vale a pena comprar [PRODUTO]?
-
-Resumo + recomendação principal + verificação de voltagem/capacidade
+<h2>Conclusão</h2>
+<p>Resumo + recomendação principal.</p>
 ```
+
+---
+
+## 🎨 Botões de Afiliado — Padrão Definitivo
+
+```html
+<a class="amazon-btn" href="/go/XX" target="_blank"
+   rel="nofollow noopener sponsored"
+   style="display:inline-block!important;background:#000!important;color:#fff!important;
+          padding:12px 18px!important;border-radius:6px!important;
+          text-decoration:none!important;font-weight:700!important;
+          text-align:center!important;line-height:1.2!important;
+          box-shadow:none!important;">
+  VER MELHOR PREÇO
+</a>
+```
+
+**Nunca usar:** `single-amazon-btn` como class principal (tema força laranja nela).
+Sempre usar `amazon-btn` que também precisa do override.
 
 ---
 
 ## 🔗 Links de Afiliado
 
-### Amazon
-- Tag: `josejuniorabe-20`
-- Formato curto: `amzn.to/XXXX`
+- **Tag Amazon:** `josejuniorabe-20`
+- **Shortlinks internos:** `/go/XX` (ex: `/go/df`, `/go/dg`)
 - Plugins: Affiliate Link Manager, Pretty Links, ThirstyAffiliates
-
-### Mercado Livre
-- Links diretos do ML (ainda poucos, ~1-2 por site)
-- Precisam ser convertidos paralinks de afiliado quando encontrados
-
-### Shortlinks internos
-- Padrão: `/go/XX` (ex: `/go/df`, `/go/dg`)
-- Redirecionam para links externos de afiliado
-
----
-
-## 📊 Elementos Visuais
-
-### Botões de Afiliado
-- Texto: **VER MELHOR PREÇO**
-- Estilo: botão destacado, cor secundária do tema
-- Posição: abaixo de cada análise de produto
-
-### Tabela Comparativa
-- Cabeçalho destacado
-- Linhas alternadas (zebra)
-- Botão na última coluna
-- Responsivo (scroll horizontal em mobile)
-
-### Cards de Produto
-- Imagem à esquerda
-- Nome + especificações à direita
-- Badge de "Recomendada" / "Custo-benefício" quando aplicável
-- Botão CTA no canto
-
----
-
-## 🚀 Rotina de Atualização
-
-1. José envia links de afiliado novos via Telegram
-2. Jarvis atualiza posts existentes (CTA, shortlinks, tabelas)
-3. Jarvis cria novos posts seguindo este padrão
-4. Monitoramento: heartbeat a cada 4 dias (último post agendado)
 
 ---
 
 ## 📁 Arquivos Relacionados
 
 - `blogs/guiaculinaria/MAPA.md` — visão geral do blog
-- `blogs/guiaculinaria/rotina-monitoramento.md` — detalhes do heartbeat
-- `blogs/guiaculinaria/afiliados-amazon.md` — tags e validações
-
----
-
-## 🔧 Trello (pendente)
-- API Key + Token: pendente de José
-- Board principal: gerenciar fila de artigos
+- `ESTRUTURA-ARTIGO.md` — estrutura geral (backup)
+- Artigos de referência públicos:
+  - https://guiaculinaria.com.br/fritadeira-eletrica-air-fryer/ (tabela comparativa + individuais)
+  - https://guiaculinaria.com.br/fritadeira-airfryer-mondial/ (padrão Individual)
