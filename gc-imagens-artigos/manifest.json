@@ -1,0 +1,1123 @@
+{
+  "generated_at": "2026-06-15T20:31:06.251593Z",
+  "tooling": "codex_builtin_image_gen_for_generation; manifest prepared locally",
+  "articles": [
+    {
+      "artigo": "Melhor Cafeteira Italiana Inox de 2026 — Top 3 em Aço Inoxidável",
+      "slug": "melhor-cafeteira-italiana-inox",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/11-melhor-cafeteira-italiana-inox.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "cafeteira-italiana-inox-hero.jpg Foto dramática de três cafeteiras italianas em aço inoxidável polido, em estilo still life culinário, com fundo escuro e iluminação lateral que destaca o brilho do metal. Vapor sutil saindo de uma delas. Produtividade visual premium.",
+          "original_label": "Imagem 1 (Principal - hero)",
+          "filename": "melhor-cafeteira-italiana-inox-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Cafeteira Italiana Inox de 2026 — Top 3 em Aço Inoxidável\nPrimary request: cafeteira-italiana-inox-hero.jpg Foto dramática de três cafeteiras italianas em aço inoxidável polido, em estilo still life culinário, com fundo escuro e iluminação lateral que destaca o brilho do metal. Vapor sutil saindo de uma delas. Produtividade visual premium.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-hero.png",
+          "generated_at": "2026-06-15T14:13:35.998444Z"
+        },
+        {
+          "role": "imagem-2-tabela-comparativa",
+          "suffix": "comparativo",
+          "source_description": "comparativo-cafeteiras-inox.jpg Visualização limpa de tabela comparativa com as três cafeteiras lado a lado, mostrando detalhes de tamanho e design. Estilo flat lay minimalista com paleta de cores neutra.",
+          "original_label": "Imagem 2 (Tabela comparativa)",
+          "filename": "melhor-cafeteira-italiana-inox-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Melhor Cafeteira Italiana Inox de 2026 — Top 3 em Aço Inoxidável\nPrimary request: comparativo-cafeteiras-inox.jpg Visualização limpa de tabela comparativa com as três cafeteiras lado a lado, mostrando detalhes de tamanho e design. Estilo flat lay minimalista com paleta de cores neutra.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-3-como-escolher",
+          "suffix": "3-como-escolher",
+          "source_description": "como-escolher-cafeteira-inox.jpg Ilustração ou foto mostrando mãos segurando uma cafeteira italiana, com elementos visuais indicando capacidade, material e compatibilidade. Fundo de cozinha aconchegante.",
+          "original_label": "Imagem 3 (Como escolher)",
+          "filename": "melhor-cafeteira-italiana-inox-3-como-escolher.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-3-como-escolher.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (3-como-escolher)\nArticle: Melhor Cafeteira Italiana Inox de 2026 — Top 3 em Aço Inoxidável\nPrimary request: como-escolher-cafeteira-inox.jpg Ilustração ou foto mostrando mãos segurando uma cafeteira italiana, com elementos visuais indicando capacidade, material e compatibilidade. Fundo de cozinha aconchegante.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-3-como-escolher.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Melhor Cafeteira Italiana Elétrica de 2026 — Top 2 Comparadas",
+      "slug": "melhor-cafeteira-italiana-eletrica",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/12-melhor-cafeteira-italiana-eletrica.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "cafeteira-italiana-eletrica-hero.jpg Foto elegante de cafeteira italiana elétrica ligada, com vapor subindo e luz indicadora visível. Fundo de bancada de cozinha moderna com tons neutros. Iluminação dramática que destaca o equipamento.",
+          "original_label": "Imagem 1 (Principal - hero)",
+          "filename": "melhor-cafeteira-italiana-eletrica-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Cafeteira Italiana Elétrica de 2026 — Top 2 Comparadas\nPrimary request: cafeteira-italiana-eletrica-hero.jpg Foto elegante de cafeteira italiana elétrica ligada, com vapor subindo e luz indicadora visível. Fundo de bancada de cozinha moderna com tons neutros. Iluminação dramática que destaca o equipamento.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-hero.png",
+          "generated_at": "2026-06-15T14:14:32.751571Z"
+        },
+        {
+          "role": "imagem-2-comparativo",
+          "suffix": "comparativo",
+          "source_description": "comparativo-cafeteiras-eletricas.jpg Visualização lado a lado das duas cafeteiras elétricas comparadas, com design limpo e moderno. Estilo flat lay com sombras suaves e paleta de cores consistente.",
+          "original_label": "Imagem 2 (Comparativo)",
+          "filename": "melhor-cafeteira-italiana-eletrica-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Melhor Cafeteira Italiana Elétrica de 2026 — Top 2 Comparadas\nPrimary request: comparativo-cafeteiras-eletricas.jpg Visualização lado a lado das duas cafeteiras elétricas comparadas, com design limpo e moderno. Estilo flat lay com sombras suaves e paleta de cores consistente.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-3-detalhes-tecnicos",
+          "suffix": "detalhes",
+          "source_description": "detalhes-cafeteira-eletrica.jpg Close-up nos detalhes da base elétrica, botão de acionamento e luz indicadora. Foco na tecnologia e design moderno do equipamento. Fundo desfocado de cozinha contemporânea.",
+          "original_label": "Imagem 3 (Detalhes técnicos)",
+          "filename": "melhor-cafeteira-italiana-eletrica-detalhes.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-detalhes.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (detalhes)\nArticle: Melhor Cafeteira Italiana Elétrica de 2026 — Top 2 Comparadas\nPrimary request: detalhes-cafeteira-eletrica.jpg Close-up nos detalhes da base elétrica, botão de acionamento e luz indicadora. Foco na tecnologia e design moderno do equipamento. Fundo desfocado de cozinha contemporânea.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-detalhes.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Cafeteira Italiana Bialetti é Boa? Análise Completa 2026",
+      "slug": "cafeteira-italiana-bialetti-e-boa",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/13-cafeteira-italiana-bialetti-e-boa.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "cafeteira-italiana-bialetti-e-boa-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Cafeteira Italiana Bialetti é Boa? Análise Completa 2026\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-hero.png",
+          "generated_at": "2026-06-15T14:15:31.286795Z"
+        },
+        {
+          "role": "linha",
+          "suffix": "linha",
+          "source_description": "As three classic moka pots in 3, 6 and 9 cup sizes aligned from smallest to largest on a clean kitchen counter, showing scale through cups and coffee beans, no labels.",
+          "filename": "cafeteira-italiana-bialetti-e-boa-linha.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-linha.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (linha)\nArticle: Cafeteira Italiana Bialetti é Boa? Análise Completa 2026\nPrimary request: As three classic moka pots in 3, 6 and 9 cup sizes aligned from smallest to largest on a clean kitchen counter, showing scale through cups and coffee beans, no labels.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-linha.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "detalhes",
+          "suffix": "detalhes",
+          "source_description": "Close-up of an octagonal aluminum moka pot body and handle detail with coffee cup nearby, premium editorial macro photography, no logo emphasis.",
+          "filename": "cafeteira-italiana-bialetti-e-boa-detalhes.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-detalhes.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (detalhes)\nArticle: Cafeteira Italiana Bialetti é Boa? Análise Completa 2026\nPrimary request: Close-up of an octagonal aluminum moka pot body and handle detail with coffee cup nearby, premium editorial macro photography, no logo emphasis.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-detalhes.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "thumb-redes",
+          "suffix": "thumb-redes",
+          "source_description": "Classic moka pot with steaming coffee and coffee texture background, social-share style composition without any text.",
+          "filename": "cafeteira-italiana-bialetti-e-boa-thumb-redes.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-thumb-redes.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (thumb-redes)\nArticle: Cafeteira Italiana Bialetti é Boa? Análise Completa 2026\nPrimary request: Classic moka pot with steaming coffee and coffee texture background, social-share style composition without any text.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-thumb-redes.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Cafeteira Italiana Cadence é Boa? Análise Completa 2026",
+      "slug": "cafeteira-italiana-cadence-e-boa",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/14-cafeteira-italiana-cadence-e-boa.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "cafeteira-italiana-cadence-e-boa-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Cafeteira Italiana Cadence é Boa? Análise Completa 2026\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-hero.png",
+          "generated_at": "2026-06-15T14:16:34.916855Z"
+        },
+        {
+          "role": "comparativo",
+          "suffix": "comparativo",
+          "source_description": "Two stainless steel moka pots side by side on a kitchen counter, one compact and one larger, showing size and finish differences without labels.",
+          "filename": "cafeteira-italiana-cadence-e-boa-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Cafeteira Italiana Cadence é Boa? Análise Completa 2026\nPrimary request: Two stainless steel moka pots side by side on a kitchen counter, one compact and one larger, showing size and finish differences without labels.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "estilo-de-vida",
+          "suffix": "estilo-de-vida",
+          "source_description": "Family gathered in a bright kitchen for breakfast with a large moka pot centered on the table, warm morning lifestyle photography.",
+          "filename": "cafeteira-italiana-cadence-e-boa-estilo-de-vida.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-estilo-de-vida.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (estilo-de-vida)\nArticle: Cafeteira Italiana Cadence é Boa? Análise Completa 2026\nPrimary request: Family gathered in a bright kitchen for breakfast with a large moka pot centered on the table, warm morning lifestyle photography.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-estilo-de-vida.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "thumb-redes",
+          "suffix": "thumb-redes",
+          "source_description": "Modern moka pot on a dark wood-texture background with coffee beans and steam, social-share style composition without any text.",
+          "filename": "cafeteira-italiana-cadence-e-boa-thumb-redes.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-thumb-redes.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (thumb-redes)\nArticle: Cafeteira Italiana Cadence é Boa? Análise Completa 2026\nPrimary request: Modern moka pot on a dark wood-texture background with coffee beans and steam, social-share style composition without any text.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-thumb-redes.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Cafeteira Italiana Moka: Como Usar e Escolher o Tamanho Certo",
+      "slug": "cafeteira-italiana-moka-como-usar",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/15-cafeteira-italiana-moka-como-usar.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "cafeteira-italiana-moka-como-usar-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Cafeteira Italiana Moka: Como Usar e Escolher o Tamanho Certo\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-hero.png",
+          "generated_at": "2026-06-15T14:17:12.320978Z"
+        },
+        {
+          "role": "passo-a-passo",
+          "suffix": "passo-a-passo",
+          "source_description": "Exploded view of moka pot components arranged cleanly: bottom chamber with water, filter basket with ground coffee, top chamber and finished coffee, no text labels.",
+          "filename": "cafeteira-italiana-moka-como-usar-passo-a-passo.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-passo-a-passo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (passo-a-passo)\nArticle: Cafeteira Italiana Moka: Como Usar e Escolher o Tamanho Certo\nPrimary request: Exploded view of moka pot components arranged cleanly: bottom chamber with water, filter basket with ground coffee, top chamber and finished coffee, no text labels.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-passo-a-passo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "estilo-de-vida",
+          "suffix": "estilo-de-vida",
+          "source_description": "Person brewing coffee with an Italian moka pot on a stove, steam rising, warm morning kitchen light, shallow depth of field.",
+          "filename": "cafeteira-italiana-moka-como-usar-estilo-de-vida.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-estilo-de-vida.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (estilo-de-vida)\nArticle: Cafeteira Italiana Moka: Como Usar e Escolher o Tamanho Certo\nPrimary request: Person brewing coffee with an Italian moka pot on a stove, steam rising, warm morning kitchen light, shallow depth of field.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-estilo-de-vida.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "comparativo",
+          "suffix": "comparativo",
+          "source_description": "Three moka pots in small, medium and large sizes aligned on a white marble counter, professional product comparison photography, no labels.",
+          "filename": "cafeteira-italiana-moka-como-usar-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Cafeteira Italiana Moka: Como Usar e Escolher o Tamanho Certo\nPrimary request: Three moka pots in small, medium and large sizes aligned on a white marble counter, professional product comparison photography, no labels.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Cafeteira Italiana Tramontina é Boa? Análise Completa 2026",
+      "slug": "cafeteira-italiana-tramontina-e-boa",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/16-cafeteira-italiana-tramontina-e-boa.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "cafeteira-italiana-tramontina-moka-600ml-1l-sobre-pia-de-cozinha.jpg Cafeteira Tramontina Moka em aço inoxidável sobre uma pia de cozinha moderna, com feijão de café ao lado e vapor subindo da cafeteira recém-preparada. Luz natural suave.",
+          "original_label": "Imagem 1 (hero)",
+          "filename": "cafeteira-italiana-tramontina-e-boa-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Cafeteira Italiana Tramontina é Boa? Análise Completa 2026\nPrimary request: cafeteira-italiana-tramontina-moka-600ml-1l-sobre-pia-de-cozinha.jpg Cafeteira Tramontina Moka em aço inoxidável sobre uma pia de cozinha moderna, com feijão de café ao lado e vapor subindo da cafeteira recém-preparada. Luz natural suave.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-hero.png",
+          "generated_at": "2026-06-15T14:18:11.368099Z"
+        },
+        {
+          "role": "imagem-2-comparacao",
+          "suffix": "comparativo",
+          "source_description": "comparativo-cafeteira-tramontina-600ml-vs-1l.jpg Duas cafeteiras Tramontina lado a lado (600ml e 1L) em fundo neutro escuro, mostrando a diferença de tamanho, com preço e capacidades marcados.",
+          "original_label": "Imagem 2 (comparacao)",
+          "filename": "cafeteira-italiana-tramontina-e-boa-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Cafeteira Italiana Tramontina é Boa? Análise Completa 2026\nPrimary request: comparativo-cafeteira-tramontina-600ml-vs-1l.jpg Duas cafeteiras Tramontina lado a lado (600ml e 1L) em fundo neutro escuro, mostrando a diferença de tamanho, com preço e capacidades marcados.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-3-estilo-de-vida",
+          "suffix": "estilo-de-vida",
+          "source_description": "cafe-da-manha-com-cafeteira-tramontina.jpg Café da manhã completo com cafeteira Tramontina, pão fresco, frutas e xícaras de café fumegante em uma mesa de madeira rústica.",
+          "original_label": "Imagem 3 (estilo-de-vida)",
+          "filename": "cafeteira-italiana-tramontina-e-boa-estilo-de-vida.png",
+          "path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-estilo-de-vida.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (estilo-de-vida)\nArticle: Cafeteira Italiana Tramontina é Boa? Análise Completa 2026\nPrimary request: cafe-da-manha-com-cafeteira-tramontina.jpg Café da manhã completo com cafeteira Tramontina, pão fresco, frutas e xícaras de café fumegante em uma mesa de madeira rústica.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-estilo-de-vida.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Como Fazer Café na Cafeteira Italiana: O Guia Definitivo",
+      "slug": "como-fazer-cafe-na-cafeteira-italiana",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/17-como-fazer-cafe-na-cafeteira-italiana.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "como-fazer-cafe-na-cafeteira-italiana-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Como Fazer Café na Cafeteira Italiana: O Guia Definitivo\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-hero.png",
+          "generated_at": "2026-06-15T14:19:32.942530Z"
+        },
+        {
+          "role": "imagem-1-passo-a-passo",
+          "suffix": "passo-a-passo",
+          "source_description": "como-fazer-cafe-na-cafeteira-italiana-passo-a-passo.jpg Sequência de 4 fotos mostrando as etapas: água na base, café no filtro, cafeteira no fogão, café sendo servido. Fundo de cozinha rústica com luz natural.",
+          "original_label": "Imagem 1 (passo a passo)",
+          "filename": "como-fazer-cafe-na-cafeteira-italiana-passo-a-passo.png",
+          "path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-passo-a-passo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (passo-a-passo)\nArticle: Como Fazer Café na Cafeteira Italiana: O Guia Definitivo\nPrimary request: como-fazer-cafe-na-cafeteira-italiana-passo-a-passo.jpg Sequência de 4 fotos mostrando as etapas: água na base, café no filtro, cafeteira no fogão, café sendo servido. Fundo de cozinha rústica com luz natural.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-passo-a-passo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-2-dicas",
+          "suffix": "2-dicas",
+          "source_description": "dicas-de-ouro-cafeteira-italiana-cafe-perfeito.jpg Close-up de café moído sendo adicionado ao filtro da cafeteira, com os grãos dourados visíveis. Ao fundo, grãos inteiros e uma balança de precisão.",
+          "original_label": "Imagem 2 (dicas)",
+          "filename": "como-fazer-cafe-na-cafeteira-italiana-2-dicas.png",
+          "path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-2-dicas.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (2-dicas)\nArticle: Como Fazer Café na Cafeteira Italiana: O Guia Definitivo\nPrimary request: dicas-de-ouro-cafeteira-italiana-cafe-perfeito.jpg Close-up de café moído sendo adicionado ao filtro da cafeteira, com os grãos dourados visíveis. Ao fundo, grãos inteiros e uma balança de precisão.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-2-dicas.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-3-estilo-de-vida",
+          "suffix": "estilo-de-vida",
+          "source_description": "cafe-da-manha-com-cafeteira-italiana.jpg Café da manhã brasileiro com cafeteira italiana, pão francês, manteiga, queijo e leite. Mesa de madeira com toalha floral, luz quente e aconchegante.",
+          "original_label": "Imagem 3 (estilo de vida)",
+          "filename": "como-fazer-cafe-na-cafeteira-italiana-estilo-de-vida.png",
+          "path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-estilo-de-vida.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (estilo-de-vida)\nArticle: Como Fazer Café na Cafeteira Italiana: O Guia Definitivo\nPrimary request: cafe-da-manha-com-cafeteira-italiana.jpg Café da manhã brasileiro com cafeteira italiana, pão francês, manteiga, queijo e leite. Mesa de madeira com toalha floral, luz quente e aconchegante.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-estilo-de-vida.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Como Escolher o Tamanho da Cafeteira Italiana: Guia por Xícaras",
+      "slug": "como-escolher-tamanho-cafeteira-italiana",
+      "markdown_path": "guda-memory/gc-artigos-cafeteira/18-como-escolher-tamanho-cafeteira-italiana.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "como-escolher-tamanho-cafeteira-italiana-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Como Escolher o Tamanho da Cafeteira Italiana: Guia por Xícaras\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-hero.png",
+          "generated_at": "2026-06-15T14:20:33.969775Z"
+        },
+        {
+          "role": "imagem-1-comparacao",
+          "suffix": "comparativo",
+          "source_description": "tamanhos-cafeteira-italiana-1-3-6-9-xicaras.jpg Quatro cafeteiras italianas de tamanhos diferentes (1, 3, 6 e 9 xícaras) alinhadas em uma bancada de mármore branco, mostrando claramente a diferença de escala entre elas.",
+          "original_label": "Imagem 1 (comparacao)",
+          "filename": "como-escolher-tamanho-cafeteira-italiana-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Como Escolher o Tamanho da Cafeteira Italiana: Guia por Xícaras\nPrimary request: tamanhos-cafeteira-italiana-1-3-6-9-xicaras.jpg Quatro cafeteiras italianas de tamanhos diferentes (1, 3, 6 e 9 xícaras) alinhadas em uma bancada de mármore branco, mostrando claramente a diferença de escala entre elas.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-2-tabela",
+          "suffix": "2-tabela",
+          "source_description": "guia-tamanho-cafeteira-italiana-xicaras.jpg Infográfico mostrando a relação entre tamanho da cafeteira e número de pessoas atendidas, com ícones de xícaras e pessoas em um layout limpo e informativo.",
+          "original_label": "Imagem 2 (tabela)",
+          "filename": "como-escolher-tamanho-cafeteira-italiana-2-tabela.png",
+          "path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-2-tabela.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (2-tabela)\nArticle: Como Escolher o Tamanho da Cafeteira Italiana: Guia por Xícaras\nPrimary request: guia-tamanho-cafeteira-italiana-xicaras.jpg Infográfico mostrando a relação entre tamanho da cafeteira e número de pessoas atendidas, com ícones de xícaras e pessoas em um layout limpo e informativo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-2-tabela.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-3-estilo-de-vida",
+          "suffix": "estilo-de-vida",
+          "source_description": "familia-cafeteira-italiana-manha.jpg Família de quatro pessoas em volta de uma mesa de cozinha tomando café da manhã, com uma cafeteira italiana grande ao centro da cena. Luz quente e aconchegante de manhã.",
+          "original_label": "Imagem 3 (estilo de vida)",
+          "filename": "como-escolher-tamanho-cafeteira-italiana-estilo-de-vida.png",
+          "path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-estilo-de-vida.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (estilo-de-vida)\nArticle: Como Escolher o Tamanho da Cafeteira Italiana: Guia por Xícaras\nPrimary request: familia-cafeteira-italiana-manha.jpg Família de quatro pessoas em volta de uma mesa de cozinha tomando café da manhã, com uma cafeteira italiana grande ao centro da cena. Luz quente e aconchegante de manhã.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-estilo-de-vida.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Melhor Máquina de Gelo de 2026 — Top 4 Comparadas",
+      "slug": "melhor-maquina-de-gelo",
+      "markdown_path": "guda-memory/gc-artigos-gelo/19-melhor-maquina-de-gelo.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Máquina de gelo doméstica moderna sobre bancada de cozinha, com gelo caindo no compartimento transparente. Estilo product photography com iluminação LED fria, fundo escuro. Resolução 1200x630.",
+          "original_label": "Imagem principal (capa do artigo)",
+          "filename": "melhor-maquina-de-gelo-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Máquina de Gelo de 2026 — Top 4 Comparadas\nPrimary request: Máquina de gelo doméstica moderna sobre bancada de cozinha, com gelo caindo no compartimento transparente. Estilo product photography com iluminação LED fria, fundo escuro. Resolução 1200x630.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-hero.png",
+          "generated_at": "2026-06-15T14:21:42.437786Z"
+        },
+        {
+          "role": "imagem-interna-1",
+          "suffix": "interna-1",
+          "source_description": "Infográfico mostrando como funciona o ciclo de produção de gelo (água no reservatório, bomba, evaporador, compartimento). Design clean azul e branco. Resolução 800x600.",
+          "original_label": "Imagem interna 1",
+          "filename": "melhor-maquina-de-gelo-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Melhor Máquina de Gelo de 2026 — Top 4 Comparadas\nPrimary request: Infográfico mostrando como funciona o ciclo de produção de gelo (água no reservatório, bomba, evaporador, compartimento). Design clean azul e branco. Resolução 800x600.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-interna-2",
+          "suffix": "interna-2",
+          "source_description": "Close-up de peças de gelo bullet (oco) caindo no compartimento de armazenamento de uma máquina de gelo. Fotografia de produto, iluminação clara. Resolução 800x600.",
+          "original_label": "Imagem interna 2",
+          "filename": "melhor-maquina-de-gelo-interna-2.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-interna-2.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-2)\nArticle: Melhor Máquina de Gelo de 2026 — Top 4 Comparadas\nPrimary request: Close-up de peças de gelo bullet (oco) caindo no compartimento de armazenamento de uma máquina de gelo. Fotografia de produto, iluminação clara. Resolução 800x600.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-interna-2.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Melhor Máquina de Gelo Portátil de 2026 — Top 2 Comparadas",
+      "slug": "melhor-maquina-de-gelo-portatil",
+      "markdown_path": "guda-memory/gc-artigos-gelo/20-melhor-maquina-de-gelo-portatil.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Duas máquinas de gelo portáteis lado a lado sobre uma mesa de bar com coquetéis ao fundo. Estilo lifestyle editorial com iluminação quente e drinks coloridos. Resolução 1200x630.",
+          "original_label": "Imagem principal (capa do artigo)",
+          "filename": "melhor-maquina-de-gelo-portatil-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Máquina de Gelo Portátil de 2026 — Top 2 Comparadas\nPrimary request: Duas máquinas de gelo portáteis lado a lado sobre uma mesa de bar com coquetéis ao fundo. Estilo lifestyle editorial com iluminação quente e drinks coloridos. Resolução 1200x630.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-hero.png",
+          "generated_at": "2026-06-15T14:22:48.892876Z"
+        },
+        {
+          "role": "imagem-interna-1",
+          "suffix": "interna-1",
+          "source_description": "Máquina de gelo portátil sendo usada em uma cozinha compacta de apartamento, com gelo caindo no compartimento transparente. Estilo flat lay ou 45 graus. Resolução 800x600.",
+          "original_label": "Imagem interna 1",
+          "filename": "melhor-maquina-de-gelo-portatil-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Melhor Máquina de Gelo Portátil de 2026 — Top 2 Comparadas\nPrimary request: Máquina de gelo portátil sendo usada em uma cozinha compacta de apartamento, com gelo caindo no compartimento transparente. Estilo flat lay ou 45 graus. Resolução 800x600.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-interna-2",
+          "suffix": "interna-2",
+          "source_description": "Close-up de uma máquina de gelo portátil com um coquetel sendo preparado ao lado, com pedras de gelo ao fundo. Estilo food/bartender photography. Resolução 800x600.",
+          "original_label": "Imagem interna 2",
+          "filename": "melhor-maquina-de-gelo-portatil-interna-2.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-interna-2.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-2)\nArticle: Melhor Máquina de Gelo Portátil de 2026 — Top 2 Comparadas\nPrimary request: Close-up de uma máquina de gelo portátil com um coquetel sendo preparado ao lado, com pedras de gelo ao fundo. Estilo food/bartender photography. Resolução 800x600.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-interna-2.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Melhor Máquina de Gelo Portátil de 2026 — Guia Completo",
+      "slug": "melhor-maquina-de-gelo-portatil-2026",
+      "markdown_path": "guda-memory/gc-artigos-gelo/21-melhor-maquina-de-gelo-portatil-2026.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "maquina-gelo-portatil-2026-destaque.webp",
+          "filename": "melhor-maquina-de-gelo-portatil-2026-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil-2026/melhor-maquina-de-gelo-portatil-2026-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Máquina de Gelo Portátil de 2026 — Guia Completo\nPrimary request: maquina-gelo-portatil-2026-destaque.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil-2026/melhor-maquina-de-gelo-portatil-2026-hero.png",
+          "generated_at": "2026-06-15T14:23:58.955699Z"
+        },
+        {
+          "role": "interna-1",
+          "suffix": "interna-1",
+          "source_description": "\n\n3. **Interna 2:** Kitchen counter with portable ice maker, fresh ice cubes in a bowl, fresh fruits and coffee, lifestyle photography, morning light\n   - Arquivo: ",
+          "filename": "melhor-maquina-de-gelo-portatil-2026-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil-2026/melhor-maquina-de-gelo-portatil-2026-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Melhor Máquina de Gelo Portátil de 2026 — Guia Completo\nPrimary request: \n\n3. **Interna 2:** Kitchen counter with portable ice maker, fresh ice cubes in a bowl, fresh fruits and coffee, lifestyle photography, morning light\n   - Arquivo: \nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil-2026/melhor-maquina-de-gelo-portatil-2026-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [
+        {
+          "placeholder": "PLACEHOLDER_PORT12KG_IMG",
+          "line": 49,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_PHILCOPMG01PI_IMG",
+          "line": 59,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_PORT12KG_IMG",
+          "line": 74,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_PHILCOPMG01PI_IMG",
+          "line": 100,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        }
+      ],
+      "status": "partial_generated"
+    },
+    {
+      "artigo": "Melhor Moedor de Café de 2026 — Guia Completo para Escolher",
+      "slug": "melhor-moedor-de-cafe",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/01-melhor-moedor-de-cafe.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "melhor-moedor-de-cafe-destaque.webp",
+          "filename": "melhor-moedor-de-cafe-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe/melhor-moedor-de-cafe-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Moedor de Café de 2026 — Guia Completo para Escolher\nPrimary request: melhor-moedor-de-cafe-destaque.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe/melhor-moedor-de-cafe-hero.png",
+          "generated_at": "2026-06-15T14:12:06.889080Z"
+        },
+        {
+          "role": "interna-1",
+          "suffix": "interna-1",
+          "source_description": "moedor-manual-cafe-closeup.webp",
+          "filename": "melhor-moedor-de-cafe-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe/melhor-moedor-de-cafe-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Melhor Moedor de Café de 2026 — Guia Completo para Escolher\nPrimary request: moedor-manual-cafe-closeup.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe/melhor-moedor-de-cafe-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [
+        {
+          "placeholder": "PLACEHOLDER_HB850_IMG",
+          "line": 53,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_OSTER4862_IMG",
+          "line": 72,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_TRAMONTINA820_IMG",
+          "line": 91,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_HARIO_IMG",
+          "line": 110,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_HB850_IMG",
+          "line": 134,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_OSTER4862_IMG",
+          "line": 158,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_TRAMONTINA820_IMG",
+          "line": 182,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_HARIO_IMG",
+          "line": 206,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        }
+      ],
+      "status": "partial_generated"
+    },
+    {
+      "artigo": "Melhor Moedor de Café Elétrico de 2026 — Top 3 Comparados",
+      "slug": "melhor-moedor-de-cafe-eletrico",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/02-melhor-moedor-cafe-eletrico.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "melhor-moedor-cafe-eletrico-destaque.webp",
+          "filename": "melhor-moedor-de-cafe-eletrico-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-eletrico/melhor-moedor-de-cafe-eletrico-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Moedor de Café Elétrico de 2026 — Top 3 Comparados\nPrimary request: melhor-moedor-cafe-eletrico-destaque.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-eletrico/melhor-moedor-de-cafe-eletrico-hero.png",
+          "generated_at": "2026-06-15T14:25:11.655041Z"
+        },
+        {
+          "role": "interna-1",
+          "suffix": "interna-1",
+          "source_description": "cafe-moido-eletrico-lateral.webp",
+          "filename": "melhor-moedor-de-cafe-eletrico-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-eletrico/melhor-moedor-de-cafe-eletrico-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Melhor Moedor de Café Elétrico de 2026 — Top 3 Comparados\nPrimary request: cafe-moido-eletrico-lateral.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-eletrico/melhor-moedor-de-cafe-eletrico-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [
+        {
+          "placeholder": "PLACEHOLDER_HB850_IMG",
+          "line": 51,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_OSTER4862_IMG",
+          "line": 61,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_CADENCE_IMG",
+          "line": 71,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_HB850_IMG",
+          "line": 86,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_OSTER4862_IMG",
+          "line": 110,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_CADENCE_IMG",
+          "line": 133,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        }
+      ],
+      "status": "partial_generated"
+    },
+    {
+      "artigo": "Melhor Moedor de Café Manual de 2026 — Top 3 Comparados",
+      "slug": "melhor-moedor-de-cafe-manual",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/03-melhor-moedor-cafe-manual.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "melhor-moedor-de-cafe-manual-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Melhor Moedor de Café Manual de 2026 — Top 3 Comparados\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-hero.png",
+          "generated_at": "2026-06-15T14:26:17.427375Z"
+        },
+        {
+          "role": "moedor-manual-comparacao-topo-jpg",
+          "suffix": "comparativo",
+          "source_description": "Foto flatlay dos três moedores manuais lado a lado com grãos de café ao redor, iluminação natural suave, fundo de madeira clara. Tom acolhedor e artesanal.",
+          "original_label": "moedor-manual-comparacao-topo.jpg",
+          "filename": "melhor-moedor-de-cafe-manual-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Melhor Moedor de Café Manual de 2026 — Top 3 Comparados\nPrimary request: Foto flatlay dos três moedores manuais lado a lado com grãos de café ao redor, iluminação natural suave, fundo de madeira clara. Tom acolhedor e artesanal.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "hario-skerton-plus-detalhe-jpg",
+          "suffix": "detalhes",
+          "source_description": "Close-up do moinho cerâmico do Hario Skerton com mãos segurando o moedor, demonstrando o tamanho e a ergonomia. Foco no mecanismo de moagem.",
+          "original_label": "hario-skerton-plus-detalhe.jpg",
+          "filename": "melhor-moedor-de-cafe-manual-detalhes.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-detalhes.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (detalhes)\nArticle: Melhor Moedor de Café Manual de 2026 — Top 3 Comparados\nPrimary request: Close-up do moinho cerâmico do Hario Skerton com mãos segurando o moedor, demonstrando o tamanho e a ergonomia. Foco no mecanismo de moagem.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-detalhes.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "cafe-fresca-mao-jpg",
+          "suffix": "cafe-fresca-mao-jpg",
+          "source_description": "Foto de mão girando a manivela do Commandante C40 com café recém-moído caindo, capturando a experiência de moer café em casa. Tons quentes e aconchegantes.",
+          "original_label": "cafe-fresca-mão.jpg",
+          "filename": "melhor-moedor-de-cafe-manual-cafe-fresca-mao-jpg.png",
+          "path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-cafe-fresca-mao-jpg.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (cafe-fresca-mao-jpg)\nArticle: Melhor Moedor de Café Manual de 2026 — Top 3 Comparados\nPrimary request: Foto de mão girando a manivela do Commandante C40 com café recém-moído caindo, capturando a experiência de moer café em casa. Tons quentes e aconchegantes.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-cafe-fresca-mao-jpg.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Moedor de Café Hamilton Beach é Bom? Análise Completa 2026",
+      "slug": "moedor-de-cafe-hamilton-beach-e-bom",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/04-moedor-cafe-hamilton-beach-e-bom.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "moedor-de-cafe-hamilton-beach-e-bom-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Moedor de Café Hamilton Beach é Bom? Análise Completa 2026\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-hero.png",
+          "generated_at": "2026-06-15T14:27:08.219527Z"
+        },
+        {
+          "role": "hamilton-beach-comparacao-familia-jpg",
+          "suffix": "comparativo",
+          "source_description": "Foto dos dois moedores Hamilton Beach lado a lado com café em grãos ao redor, mostrando diferença de tamanho. Iluminação de cozinha moderna.",
+          "original_label": "hamilton-beach-comparacao-familia.jpg",
+          "filename": "moedor-de-cafe-hamilton-beach-e-bom-comparativo.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-comparativo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (comparativo)\nArticle: Moedor de Café Hamilton Beach é Bom? Análise Completa 2026\nPrimary request: Foto dos dois moedores Hamilton Beach lado a lado com café em grãos ao redor, mostrando diferença de tamanho. Iluminação de cozinha moderna.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-comparativo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "cafe-moido-mao-jpg",
+          "suffix": "cafe-moido-mao-jpg",
+          "source_description": "Close-up da tampa transparente do Hamilton Beach 80466 mostrando café sendo moído, com partículas de café caindo. Foco na textura do café moído.",
+          "original_label": "cafe-moido-mão.jpg",
+          "filename": "moedor-de-cafe-hamilton-beach-e-bom-cafe-moido-mao-jpg.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-cafe-moido-mao-jpg.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (cafe-moido-mao-jpg)\nArticle: Moedor de Café Hamilton Beach é Bom? Análise Completa 2026\nPrimary request: Close-up da tampa transparente do Hamilton Beach 80466 mostrando café sendo moído, com partículas de café caindo. Foco na textura do café moído.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-cafe-moido-mao-jpg.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "cafe-manha-familia-jpg",
+          "suffix": "cafe-manha-familia-jpg",
+          "source_description": "Cena aconchegante de manhã com família preparando café, moedor Hamilton Beach na bancada ao fundo. Tons quentes e convidativos.",
+          "original_label": "cafe-manha-familia.jpg",
+          "filename": "moedor-de-cafe-hamilton-beach-e-bom-cafe-manha-familia-jpg.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-cafe-manha-familia-jpg.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (cafe-manha-familia-jpg)\nArticle: Moedor de Café Hamilton Beach é Bom? Análise Completa 2026\nPrimary request: Cena aconchegante de manhã com família preparando café, moedor Hamilton Beach na bancada ao fundo. Tons quentes e convidativos.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-cafe-manha-familia-jpg.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Moedor de Café Oster é Bom? Análise Completa 2026",
+      "slug": "moedor-de-cafe-oster-e-bom",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/05-moedor-cafe-oster-e-bom.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "moedor-de-cafe-oster-e-bom-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Moedor de Café Oster é Bom? Análise Completa 2026\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-hero.png",
+          "generated_at": "2026-06-15T14:28:16.186640Z"
+        },
+        {
+          "role": "oster-4862-cozinha-moderna-jpg",
+          "suffix": "oster-4862-cozinha-moderna-jpg",
+          "source_description": "Foto do Oster 4862 em aço escovado em bancada de cozinha moderna, com grãos de café ao redor. Iluminação natural suave.",
+          "original_label": "oster-4862-cozinha-moderna.jpg",
+          "filename": "moedor-de-cafe-oster-e-bom-oster-4862-cozinha-moderna-jpg.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-oster-4862-cozinha-moderna-jpg.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (oster-4862-cozinha-moderna-jpg)\nArticle: Moedor de Café Oster é Bom? Análise Completa 2026\nPrimary request: Foto do Oster 4862 em aço escovado em bancada de cozinha moderna, com grãos de café ao redor. Iluminação natural suave.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-oster-4862-cozinha-moderna-jpg.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "cafe-fresco-manha-jpg",
+          "suffix": "cafe-fresco-manha-jpg",
+          "source_description": "Close-up da tampa transparente do Oster 4863 mostrando café sendo moído, com aroma subindo. Tons quentes e aconchegantes.",
+          "original_label": "cafe-fresco-manha.jpg",
+          "filename": "moedor-de-cafe-oster-e-bom-cafe-fresco-manha-jpg.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-cafe-fresco-manha-jpg.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (cafe-fresco-manha-jpg)\nArticle: Moedor de Café Oster é Bom? Análise Completa 2026\nPrimary request: Close-up da tampa transparente do Oster 4863 mostrando café sendo moído, com aroma subindo. Tons quentes e aconchegantes.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-cafe-fresco-manha-jpg.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "familia-cafe-manha-jpg",
+          "suffix": "familia-cafe-manha-jpg",
+          "source_description": "Cena de manhã com pessoa preparando café usando o moedor Oster, família ao fundo em ambiente aconchegante. Tom acolhedor e convidativo.",
+          "original_label": "familia-cafe-manha.jpg",
+          "filename": "moedor-de-cafe-oster-e-bom-familia-cafe-manha-jpg.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-familia-cafe-manha-jpg.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (familia-cafe-manha-jpg)\nArticle: Moedor de Café Oster é Bom? Análise Completa 2026\nPrimary request: Cena de manhã com pessoa preparando café usando o moedor Oster, família ao fundo em ambiente aconchegante. Tom acolhedor e convidativo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-familia-cafe-manha-jpg.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Moedor de Café Tramontina é Bom? Análise Completa 2026",
+      "slug": "moedor-de-cafe-tramontina-e-bom",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/06-moedor-cafe-tramontina-e-bom.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "moedor-tramontina-breville-destaque.webp",
+          "filename": "moedor-de-cafe-tramontina-e-bom-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-tramontina-e-bom/moedor-de-cafe-tramontina-e-bom-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Moedor de Café Tramontina é Bom? Análise Completa 2026\nPrimary request: moedor-tramontina-breville-destaque.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-tramontina-e-bom/moedor-de-cafe-tramontina-e-bom-hero.png",
+          "generated_at": "2026-06-15T14:29:21.424688Z"
+        },
+        {
+          "role": "interna-1",
+          "suffix": "interna-1",
+          "source_description": "\n\n3. **Interna 2:** Coffee grounds in different consistencies in three ceramic cups, comparison shot showing grind sizes, flat lay photography\n   - Arquivo: ",
+          "filename": "moedor-de-cafe-tramontina-e-bom-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-tramontina-e-bom/moedor-de-cafe-tramontina-e-bom-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Moedor de Café Tramontina é Bom? Análise Completa 2026\nPrimary request: \n\n3. **Interna 2:** Coffee grounds in different consistencies in three ceramic cups, comparison shot showing grind sizes, flat lay photography\n   - Arquivo: \nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-tramontina-e-bom/moedor-de-cafe-tramontina-e-bom-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [
+        {
+          "placeholder": "PLACEHOLDER_TRAMBCG820_IMG",
+          "line": 51,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_TRAMELET_IMG",
+          "line": 61,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_TRAMBCG820_IMG",
+          "line": 76,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        },
+        {
+          "placeholder": "PLACEHOLDER_TRAMELET_IMG",
+          "line": 103,
+          "status": "needs_real_product_image_or_affiliate_asset"
+        }
+      ],
+      "status": "partial_generated"
+    },
+    {
+      "artigo": "Qual o Melhor Moedor de Café? Guia Completo 2026",
+      "slug": "qual-o-melhor-moedor-de-cafe-guia-completo",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/07-qual-melhor-moedor-cafe-guia-completo.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "qual-o-melhor-moedor-de-cafe-guia-completo-destaque.webp",
+          "filename": "qual-o-melhor-moedor-de-cafe-guia-completo-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Qual o Melhor Moedor de Café? Guia Completo 2026\nPrimary request: qual-o-melhor-moedor-de-cafe-guia-completo-destaque.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-hero.png",
+          "generated_at": "2026-06-15T14:30:46.970492Z"
+        },
+        {
+          "role": "interna-1",
+          "suffix": "interna-1",
+          "source_description": "moedor-cafe-disco-burr-detalhe.webp",
+          "filename": "qual-o-melhor-moedor-de-cafe-guia-completo-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Qual o Melhor Moedor de Café? Guia Completo 2026\nPrimary request: moedor-cafe-disco-burr-detalhe.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "interna-2",
+          "suffix": "interna-2",
+          "source_description": "moagem-consistente-vs-irregular-cafe.webp",
+          "filename": "qual-o-melhor-moedor-de-cafe-guia-completo-interna-2.png",
+          "path": "guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-interna-2.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-2)\nArticle: Qual o Melhor Moedor de Café? Guia Completo 2026\nPrimary request: moagem-consistente-vs-irregular-cafe.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-interna-2.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Moedor de Café Cadence é Bom? Análise Completa 2026",
+      "slug": "moedor-de-cafe-cadence-e-bom",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/08-moedor-cafe-cadence-e-bom.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "moedor-cafe-cadence-cozinha-brasileira.webp",
+          "filename": "moedor-de-cafe-cadence-e-bom-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Moedor de Café Cadence é Bom? Análise Completa 2026\nPrimary request: moedor-cafe-cadence-cozinha-brasileira.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-hero.png",
+          "generated_at": "2026-06-15T14:32:09.573442Z"
+        },
+        {
+          "role": "interna-1",
+          "suffix": "interna-1",
+          "source_description": "moedor-cadence-lamina-funcionando.webp",
+          "filename": "moedor-de-cafe-cadence-e-bom-interna-1.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-interna-1.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-1)\nArticle: Moedor de Café Cadence é Bom? Análise Completa 2026\nPrimary request: moedor-cadence-lamina-funcionando.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-interna-1.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "interna-2",
+          "suffix": "interna-2",
+          "source_description": "cafe-moido-burr-vs-lamina-comparacao.webp",
+          "filename": "moedor-de-cafe-cadence-e-bom-interna-2.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-interna-2.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-2)\nArticle: Moedor de Café Cadence é Bom? Análise Completa 2026\nPrimary request: cafe-moido-burr-vs-lamina-comparacao.webp\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-interna-2.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Moedor de Café Philco é Bom? Análise Completa 2026",
+      "slug": "moedor-de-cafe-philco-e-bom",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/09-moedor-cafe-philco-e-bom.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Foto de alta qualidade de dois moedores de café Philco na bancada de uma cozinha moderna, com grãos de café ao redor e uma xícara de café fresco ao lado. Iluminação quente e aconchegante, fundo desfocado com madeira clara. Estilo editorial de cozinha. Resolução mínima 1200x630px.",
+          "original_label": "Imagem principal (Open Graph)",
+          "filename": "moedor-de-cafe-philco-e-bom-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Moedor de Café Philco é Bom? Análise Completa 2026\nPrimary request: Foto de alta qualidade de dois moedores de café Philco na bancada de uma cozinha moderna, com grãos de café ao redor e uma xícara de café fresco ao lado. Iluminação quente e aconchegante, fundo desfocado com madeira clara. Estilo editorial de cozinha. Resolução mínima 1200x630px.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-hero.png",
+          "generated_at": "2026-06-15T14:33:19.969258Z"
+        },
+        {
+          "role": "imagem-interna-produto",
+          "suffix": "interna-produto",
+          "source_description": "Ilustração flat lay de um moedor de café Philco com tampa aberta, grãos de café ao redor, sobre superfície de mármore branco. Luz natural suave. Minimalista e clean. Resolução 800x600px.",
+          "original_label": "Imagem interna (produto)",
+          "filename": "moedor-de-cafe-philco-e-bom-interna-produto.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-interna-produto.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (interna-produto)\nArticle: Moedor de Café Philco é Bom? Análise Completa 2026\nPrimary request: Ilustração flat lay de um moedor de café Philco com tampa aberta, grãos de café ao redor, sobre superfície de mármore branco. Luz natural suave. Minimalista e clean. Resolução 800x600px.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-interna-produto.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "imagem-faq-passo-a-passo",
+          "suffix": "passo-a-passo",
+          "source_description": "Infográfico vertical mostrando 3 etapas de moagem de café: grãos inteiros, moedor funcionando, pó de café resultante. Estilo ilustrativo moderno com ícones coloridos. Fundo branco. Resolução 800x1200px.",
+          "original_label": "Imagem FAQ/Passo a passo",
+          "filename": "moedor-de-cafe-philco-e-bom-passo-a-passo.png",
+          "path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-passo-a-passo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (passo-a-passo)\nArticle: Moedor de Café Philco é Bom? Análise Completa 2026\nPrimary request: Infográfico vertical mostrando 3 etapas de moagem de café: grãos inteiros, moedor funcionando, pó de café resultante. Estilo ilustrativo moderno com ícones coloridos. Fundo branco. Resolução 800x1200px.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-passo-a-passo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    },
+    {
+      "artigo": "Como Moer Café na Hora: O Guia Definitivo para Café Fresco",
+      "slug": "como-moer-cafe-na-hora-guia-definitivo",
+      "markdown_path": "guda-memory/gc-artigos-moedor-cafe/10-como-moer-cafe-na-hora.md",
+      "image_section_found": true,
+      "images": [
+        {
+          "role": "hero",
+          "suffix": "hero",
+          "source_description": "Imagem principal editorial inferida do tema do artigo.",
+          "filename": "como-moer-cafe-na-hora-guia-definitivo-hero.png",
+          "path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-hero.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (hero)\nArticle: Como Moer Café na Hora: O Guia Definitivo para Café Fresco\nPrimary request: Imagem principal editorial inferida do tema do artigo.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-hero.png",
+          "generated_at": "2026-06-15T14:34:34.039999Z"
+        },
+        {
+          "role": "metodo",
+          "suffix": "metodo",
+          "source_description": "Different coffee grind sizes displayed in small glass bowls from fine to coarse, clean grid layout without any written labels, editorial educational photography.",
+          "filename": "como-moer-cafe-na-hora-guia-definitivo-metodo.png",
+          "path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-metodo.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (metodo)\nArticle: Como Moer Café na Hora: O Guia Definitivo para Café Fresco\nPrimary request: Different coffee grind sizes displayed in small glass bowls from fine to coarse, clean grid layout without any written labels, editorial educational photography.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-metodo.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "armazenamento",
+          "suffix": "armazenamento",
+          "source_description": "Hand placing whole coffee beans into an airtight glass jar beside a coffee bag with one-way valve, warm kitchen light, realistic lifestyle photography.",
+          "filename": "como-moer-cafe-na-hora-guia-definitivo-armazenamento.png",
+          "path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-armazenamento.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (armazenamento)\nArticle: Como Moer Café na Hora: O Guia Definitivo para Café Fresco\nPrimary request: Hand placing whole coffee beans into an airtight glass jar beside a coffee bag with one-way valve, warm kitchen light, realistic lifestyle photography.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-armazenamento.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        },
+        {
+          "role": "thumb-redes",
+          "suffix": "thumb-redes",
+          "source_description": "Coffee beans falling into a grinder with ground coffee nearby, dynamic social-share style composition without text.",
+          "filename": "como-moer-cafe-na-hora-guia-definitivo-thumb-redes.png",
+          "path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-thumb-redes.png",
+          "prompt": "Use case: photorealistic-natural\nAsset type: Guia Culinaria web article image (thumb-redes)\nArticle: Como Moer Café na Hora: O Guia Definitivo para Café Fresco\nPrimary request: Coffee beans falling into a grinder with ground coffee nearby, dynamic social-share style composition without text.\nStyle: realistic high-quality editorial food/product photography for a Brazilian culinary buying guide.\nComposition: web-ready landscape image, natural but polished lighting, clean composition, premium home kitchen or bar context when relevant.\nConstraints: no embedded text, no captions, no watermarks, no visible brand logos unless explicitly unavoidable, no distorted appliance geometry, no artificial infographic labels.",
+          "status": "generated",
+          "generated_path": "guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-thumb-redes.png",
+          "generated_at": "2026-06-15T20:31:06.251593Z"
+        }
+      ],
+      "placeholders": [],
+      "status": "generated"
+    }
+  ],
+  "notes": "Hero images generated for all 21 articles. Remaining internal/social assets are queued with final prompts because the available built-in generator is one-call-per-image and no OPENAI_API_KEY is present for CLI batch generation.",
+  "status": "partial_generated",
+  "summary": {
+    "articles": 21,
+    "article_folders_created": 21,
+    "images_total_in_manifest": 68,
+    "images_generated": 68,
+    "images_pending_generation": 0,
+    "placeholder_occurrences": 22
+  },
+  "blocking_note": "Foi possível gerar imagens reais via ferramenta nativa do Codex, mas ela opera uma imagem por chamada e não há OPENAI_API_KEY no ambiente para usar o fallback CLI em lote. Por isso foram gerados todos os 21 heroes/capas e os 47 assets internos restantes ficaram preparados com prompts finais no manifesto.",
+  "format_note": "Os assets gerados estão em PNG. Não há cwebp/ImageMagick instalado neste ambiente para conversão local para WebP."
+}

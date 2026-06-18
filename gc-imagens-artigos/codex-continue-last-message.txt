@@ -1,0 +1,15 @@
+Concluído.
+
+Gerei e salvei as 47 imagens pendentes nos `path` exatos do manifesto, sem sobrescrever os 21 heros existentes. Atualizei o [manifest.json](/root/blog-generator/guda-memory/gc-imagens-artigos/manifest.json) com `status: generated`, `generated_path` e `generated_at` para todas as imagens geradas.
+
+Resumo final escrito em [codex-continue-result.txt](/root/blog-generator/guda-memory/gc-imagens-artigos/codex-continue-result.txt).
+
+Validação:
+- artigos: 21
+- imagens no manifesto: 68
+- imagens geradas: 68
+- imagens `pending_generation`: 0
+- arquivos `.png` na pasta: 68
+- placeholders de produto ainda pendentes: 22
+
+O manifesto continua com status geral `partial_generated` porque esses 22 placeholders exigem imagem real de produto/asset de afiliado, não geração editorial genérica.

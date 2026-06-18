@@ -1,0 +1,80 @@
+Resumo continuidade imagens Guia Culinaria
+generated_at: 2026-06-15T20:31:06.251593Z
+
+total de artigos: 21
+total de imagens: 68
+quantas geradas: 68
+quantas pendentes: 0
+
+arquivos gerados nesta continuação (47):
+- guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-comparativo.png
+- guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-inox/melhor-cafeteira-italiana-inox-3-como-escolher.png
+- guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-comparativo.png
+- guda-memory/gc-imagens-artigos/melhor-cafeteira-italiana-eletrica/melhor-cafeteira-italiana-eletrica-detalhes.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-linha.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-detalhes.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-bialetti-e-boa/cafeteira-italiana-bialetti-e-boa-thumb-redes.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-comparativo.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-estilo-de-vida.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-cadence-e-boa/cafeteira-italiana-cadence-e-boa-thumb-redes.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-passo-a-passo.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-estilo-de-vida.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-moka-como-usar/cafeteira-italiana-moka-como-usar-comparativo.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-comparativo.png
+- guda-memory/gc-imagens-artigos/cafeteira-italiana-tramontina-e-boa/cafeteira-italiana-tramontina-e-boa-estilo-de-vida.png
+- guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-passo-a-passo.png
+- guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-2-dicas.png
+- guda-memory/gc-imagens-artigos/como-fazer-cafe-na-cafeteira-italiana/como-fazer-cafe-na-cafeteira-italiana-estilo-de-vida.png
+- guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-comparativo.png
+- guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-2-tabela.png
+- guda-memory/gc-imagens-artigos/como-escolher-tamanho-cafeteira-italiana/como-escolher-tamanho-cafeteira-italiana-estilo-de-vida.png
+- guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-interna-1.png
+- guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo/melhor-maquina-de-gelo-interna-2.png
+- guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-interna-1.png
+- guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil/melhor-maquina-de-gelo-portatil-interna-2.png
+- guda-memory/gc-imagens-artigos/melhor-maquina-de-gelo-portatil-2026/melhor-maquina-de-gelo-portatil-2026-interna-1.png
+- guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe/melhor-moedor-de-cafe-interna-1.png
+- guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-eletrico/melhor-moedor-de-cafe-eletrico-interna-1.png
+- guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-comparativo.png
+- guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-detalhes.png
+- guda-memory/gc-imagens-artigos/melhor-moedor-de-cafe-manual/melhor-moedor-de-cafe-manual-cafe-fresca-mao-jpg.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-comparativo.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-cafe-moido-mao-jpg.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-hamilton-beach-e-bom/moedor-de-cafe-hamilton-beach-e-bom-cafe-manha-familia-jpg.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-oster-4862-cozinha-moderna-jpg.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-cafe-fresco-manha-jpg.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-oster-e-bom/moedor-de-cafe-oster-e-bom-familia-cafe-manha-jpg.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-tramontina-e-bom/moedor-de-cafe-tramontina-e-bom-interna-1.png
+- guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-interna-1.png
+- guda-memory/gc-imagens-artigos/qual-o-melhor-moedor-de-cafe-guia-completo/qual-o-melhor-moedor-de-cafe-guia-completo-interna-2.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-interna-1.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-cadence-e-bom/moedor-de-cafe-cadence-e-bom-interna-2.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-interna-produto.png
+- guda-memory/gc-imagens-artigos/moedor-de-cafe-philco-e-bom/moedor-de-cafe-philco-e-bom-passo-a-passo.png
+- guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-metodo.png
+- guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-armazenamento.png
+- guda-memory/gc-imagens-artigos/como-moer-cafe-na-hora-guia-definitivo/como-moer-cafe-na-hora-guia-definitivo-thumb-redes.png
+
+placeholders de produto ainda pendentes (22):
+- melhor-maquina-de-gelo-portatil-2026: PLACEHOLDER_PORT12KG_IMG (linha 49; status: needs_real_product_image_or_affiliate_asset)
+- melhor-maquina-de-gelo-portatil-2026: PLACEHOLDER_PHILCOPMG01PI_IMG (linha 59; status: needs_real_product_image_or_affiliate_asset)
+- melhor-maquina-de-gelo-portatil-2026: PLACEHOLDER_PORT12KG_IMG (linha 74; status: needs_real_product_image_or_affiliate_asset)
+- melhor-maquina-de-gelo-portatil-2026: PLACEHOLDER_PHILCOPMG01PI_IMG (linha 100; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_HB850_IMG (linha 53; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_OSTER4862_IMG (linha 72; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_TRAMONTINA820_IMG (linha 91; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_HARIO_IMG (linha 110; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_HB850_IMG (linha 134; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_OSTER4862_IMG (linha 158; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_TRAMONTINA820_IMG (linha 182; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe: PLACEHOLDER_HARIO_IMG (linha 206; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe-eletrico: PLACEHOLDER_HB850_IMG (linha 51; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe-eletrico: PLACEHOLDER_OSTER4862_IMG (linha 61; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe-eletrico: PLACEHOLDER_CADENCE_IMG (linha 71; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe-eletrico: PLACEHOLDER_HB850_IMG (linha 86; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe-eletrico: PLACEHOLDER_OSTER4862_IMG (linha 110; status: needs_real_product_image_or_affiliate_asset)
+- melhor-moedor-de-cafe-eletrico: PLACEHOLDER_CADENCE_IMG (linha 133; status: needs_real_product_image_or_affiliate_asset)
+- moedor-de-cafe-tramontina-e-bom: PLACEHOLDER_TRAMBCG820_IMG (linha 51; status: needs_real_product_image_or_affiliate_asset)
+- moedor-de-cafe-tramontina-e-bom: PLACEHOLDER_TRAMELET_IMG (linha 61; status: needs_real_product_image_or_affiliate_asset)
+- moedor-de-cafe-tramontina-e-bom: PLACEHOLDER_TRAMBCG820_IMG (linha 76; status: needs_real_product_image_or_affiliate_asset)
+- moedor-de-cafe-tramontina-e-bom: PLACEHOLDER_TRAMELET_IMG (linha 103; status: needs_real_product_image_or_affiliate_asset)
