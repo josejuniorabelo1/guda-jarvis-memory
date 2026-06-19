@@ -39,7 +39,26 @@ E no botão:
 
 ## ✅ Estrutura Padrão de Artigo Review/Afiliado
 
-### 1. CSS MOBILE (injetar no início do conteúdo)
+### 0. REGRA MESTRA — SEMPRE antes de criar artigo do Guia Culinária
+
+Antes de criar, corrigir ou subir qualquer artigo do **Guia Culinária**, ler este arquivo e seguir a ordem abaixo.
+
+### 1. H1 / Title do WordPress — início real do artigo
+
+O artigo deve começar visualmente pelo **H1**, que no WordPress é o **título do post**. Portanto:
+
+- **Não inserir `<h1>` dentro do conteúdo**, para evitar H1 duplicado.
+- O título/H1 precisa conter a palavra-chave principal + reforço de fundo de funil.
+- Exemplos de formatos fortes:
+  - `Como [palavra-chave]: Guia Completo para 2026`
+  - `7 Melhores [palavra-chave] para Comprar em 2026`
+  - `[palavra-chave] é Boa? Veja se Vale a Pena`
+  - `[palavra-chave] para 2026: Como Escolher sem Errar`
+
+### 2. CSS técnico — pode ficar injetado no início do conteúdo, mas não conta como estrutura visual
+
+O CSS pode ser injetado no início do conteúdo por necessidade técnica do tema. Ele é invisível para o leitor; visualmente, quem abre o artigo deve ver primeiro o H1 do WordPress e logo depois a tabela comparativa.
+
 ```html
 <style>
 @media(max-width:768px){
@@ -50,7 +69,7 @@ E no botão:
 </style>
 ```
 
-### 2. TABELA COMPARATIVA (envolta em div amazon-compare-table)
+### 3. TABELA COMPARATIVA (imediatamente após o H1, antes da introdução e antes de qualquer H2)
 ```html
 <div class="amazon-compare-table">
   <table class="compare-table">
@@ -100,7 +119,7 @@ E no botão:
 - Se o lazy-load do tema gera SVG placeholder + `data-lazy-src`, substituir `src="svg..."` pela URL real e remover `data-lazy-src`
 - Não usar `loading="lazy"` na tabela comparativa
 
-### 3. INTRODUÇÃO (2-3 parágrafos)
+### 4. INTRODUÇÃO (2-3 parágrafos)
 ```html
 <p>O número de pessoas que buscam praticidade... cresceu muito nos últimos anos.
 Com isso, independentemente da idade, a prioridade é cuidar da saúde...</p>
@@ -109,7 +128,7 @@ Com isso, independentemente da idade, a prioridade é cuidar da saúde...</p>
 Air Fryer não garante apenas benefícios à saúde...</p>
 ```
 
-### 4. ANÁLISES INDIVIDUAIS (um bloco por produto)
+### 5. ANÁLISES INDIVIDUAIS (um bloco por produto)
 
 **Estrutura obrigatória:**
 ```html
@@ -151,14 +170,41 @@ Air Fryer não garante apenas benefícios à saúde...</p>
 **Ordem dentro do bloco:**
 `H3 → produto-destaque (img + nome + botão preto) → texto SEO → especificações → diferenciais`
 
-### 5. GUIA DE COMPRA
+### 6. GUIA DE COMPRA — após os produtos
+
+Depois das análises individuais, incluir sempre **2 ou 3 H2 informativos**, cada um com texto útil e, quando houver imagem disponível, **1 ou 2 imagens internas** no bloco correspondente.
+
 ```html
 <h2>Como Escolher a Melhor [PRODUTO] em 2026</h2>
 <p>Critérios organizados por importância: capacidade, potência, revestimento...</p>
 <p>Mais critérios...</p>
+
+<h2>[PALAVRA-CHAVE SECUNDÁRIA]: Vale a Pena?</h2>
+<p>Texto de apoio com intenção comercial/informativa...</p>
+
+<h2>O Que Comparar Antes de Comprar [PRODUTO]</h2>
+<p>Texto de apoio com critérios objetivos...</p>
 ```
 
-### 6. PERGUNTAS FREQUENTES (FAQ)
+### 7. IMAGENS — WordPress, SEO e WebP
+
+Todas as imagens usadas no artigo precisam estar salvas na **biblioteca de mídia do WordPress** antes da publicação.
+
+Regras:
+- Converter imagens para **WebP** sempre que possível.
+- Nomear imagens com estrutura SEO.
+- Imagem de destaque: baseada no **H1/title**.
+- Imagens internas: baseadas no **H2** da seção onde aparecem.
+- Produto na tabela e bloco individual: usar imagem real do produto, não placeholder, SVG ou imagem genérica.
+- Se a imagem real do produto ainda não existir, marcar como **pendente** e não fingir produto com imagem ilustrativa.
+
+Exemplo:
+- H1: `Melhor Panela de Pressão Elétrica de 2026`
+- Destaque: `melhor-panela-de-pressao-eletrica-2026.webp`
+- H2: `Como escolher panela de pressão elétrica`
+- Interna: `como-escolher-panela-de-pressao-eletrica.webp`
+
+### 8. PERGUNTAS FREQUENTES (FAQ)
 ```html
 <h2>Perguntas Frequentes sobre [PRODUTO]</h2>
 
